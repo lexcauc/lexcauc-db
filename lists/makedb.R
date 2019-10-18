@@ -16,6 +16,8 @@ lapply(args, read_ods, col_types = cols_only(lex.id = col_number(),
                                             phonemic = col_character(),
                                             gloss = col_character(),
                                             ipa = col_character(),
+                                            def.ru = col_character(),
+                                            def.en = col_character(),
                                             cx1 = col_character(),
                                             cx1.ru = col_character(),
                                             cx1.en = col_character(),
@@ -29,3 +31,4 @@ lapply(args, read_ods, col_types = cols_only(lex.id = col_number(),
                                             notes = col_character(),
                                             lang = col_character()
                                             )) %>% bind_rows %>% rowid_to_column("form.id") %>% write_csv("forms.csv", na = "")
+    
