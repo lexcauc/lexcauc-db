@@ -4,7 +4,8 @@ args <- commandArgs(trailingOnly=TRUE)
 library("readODS")
 library("tidyverse")
 
-lapply(args, read_ods, col_types = cols_only(lex.id = col_number(), 
+lapply(args, read_ods, col_types = cols_only(form.id = col_number(),
+                                            lex.id = col_number(), 
                                             colex.id = col_number(),
                                             lc.id = col_number(),
                                             concepticon.id = col_number(),
@@ -30,5 +31,5 @@ lapply(args, read_ods, col_types = cols_only(lex.id = col_number(),
                                             gender = col_character(),
                                             notes = col_character(),
                                             lang = col_character()
-                                            )) %>% bind_rows %>% rowid_to_column("form.id") %>% write_csv("forms.csv", na = "")
+                                            )) %>% bind_rows %>% rowid_to_column("db.id") %>% write_csv("forms.csv", na = "")
     
