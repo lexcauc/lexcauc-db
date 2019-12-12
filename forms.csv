@@ -1866,9 +1866,9 @@ db.id,form.id,lex.id,colex.id,lc.id,concepticon.id,subentry,aux,opt,excl,orthogr
 1864,30,11,,11,,sg,,,,диркьва,dirqʼʷa,R(plain),dirqʼʷa,,,,,,,,,,,,,,itsari
 1865,31,11,,11,,loc.ess,aux,,,диркьваниб,dirqʼʷa-ni-b,R(plain)-LOC-CL3[ESS],dirqʼʷanib,,,,,,,,,,,,,,itsari
 1866,32,11,,11,,loc.lat,aux,,,диркьван,dirqʼʷa-n,R(plain)-LOC[LAT],,,,,,,,,,,,,,,itsari
-1867,33,12,,12,,sg,,,,къаттала,qːatːa-la,R(valley)-NMLZ,q͡χʰatːala,,,,,,,,,,,,,Locative noun,itsari
-1868,34,12,,12,,loc.ess,aux,,,къаттаб,qːatːa-b,R(valley)-CL3[ESS],q͡χʰatːab,,,,,,,,,,,,,,itsari
-1869,35,12,,12,,pl,aux,,,къаттурби,qːatː-urbi,R(valley)-PL,q͡χʰatːurbi,,,,,,,,,,,,,,itsari
+1867,33,12,,12,,sg,,,,къаттала,qːatːa-la,R(valley)-NMLZ,qːatːala,,,,,,,,,,,,,Locative noun,itsari
+1868,34,12,,12,,loc.ess,aux,,,къаттаб,qːatːa-b,R(valley)-CL3[ESS],qːatːab,,,,,,,,,,,,,,itsari
+1869,35,12,,12,,pl,aux,,,къаттурби,qːatː-urbi,R(valley)-PL,qːatːurbi,,,,,,,,,,,,,,itsari
 1870,36,12,,12,,loc.lat,aux,,,къатта,qːatːa,R(valley)[LAT],,,,,,,,,,,,,,,itsari
 1871,37,13,,13,,sg,,,,умхха,umχːa,R(cave),ʔumχːa,,,,,,,,,,,,,,itsari
 1872,38,13,,13,,loc.ess,aux,,,?,,,,,,,,,,,,,,,,,itsari
@@ -1956,8 +1956,8 @@ db.id,form.id,lex.id,colex.id,lc.id,concepticon.id,subentry,aux,opt,excl,orthogr
 1954,120,60,,60,,sg,,,,кьялта,qʼaˁlta,R(charcoal.piece),qʼˁaˁltʰa,,,,,,,,,,,,,,itsari
 1955,121,60,,60,,pl,aux,,,кьялтин,qʼaˁlt-in,R(charcoal.piece)-PL,qʼˁaˁltʰin,,,,,,,,,,,,,,itsari
 1956,122,61,,61,,,,,,эбчча,ebčːa,R(embers),ʔebt͡ʃːa,,,,,,,,,,,,NPL,,itsari
-1957,123,62,,62,,sg,,,,кубарт,kubart,R(dung.fuel),kubartʰ,,,,,,,,,,,,,,itsari
-1958,124,62,,62,,pl,aux,,,кубарти,kubart-i,R(dung.fuel)-PL,kubartʰ-i,,,,,,,,,,,,,,itsari
+1957,123,62,,62,,sg,,,,кубарт,kubart,R(dung.fuel),kʰubartʰ,,,,,,,,,,,,,,itsari
+1958,124,62,,62,,pl,aux,,,кубарти,kubart-i,R(dung.fuel)-PL,kʰubartʰ-i,,,,,,,,,,,,,,itsari
 1959,125,63,,63,,sg,,,,?,,,,,,,,,,,,,,,,,itsari
 1960,126,63,,63,,pl,aux,,,?,,,,,,,,,,,,,,,,,itsari
 1961,127,64,,64,,sg,,,,адми,admi,R(man),ʔadmi,,,,,,,,,,,,,,itsari
