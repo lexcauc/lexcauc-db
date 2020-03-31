@@ -1,0 +1,1124 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Russian_Gloss,Number
+1_ground,GROUND,2159,GROUND,ЗЕМЛЯ (ПОВЕРХНОСТЬ),1
+2_earth,EARTH,1228,EARTH,ЗЕМЛЯ (ПОЧВА),2
+3_dust,DUST,2,DUST,ПЫЛЬ,3
+4_mud,MUD,640,MUD,ГРЯЗЬ,4
+5_sand,SAND,671,SAND,ПЕСОК,5
+6_mountain,MOUNTAIN,639,MOUNTAIN,ГОРА,6
+7_hill,HILL,614,HILL,ХОЛМ,7
+8_sunnyslope,SUNNY SLOPE,,SUNNY SLOPE,СОЛНЕЧНЫЙ СКЛОН ГОРЫ,8
+9_shadyslope,SHADY SLOPE,,SHADY SLOPE,ТЕНЕВОЙ СКЛОН ГОРЫ,9
+10_cliff,CLIFF,992,CLIFF,СКАЛА,10
+11_lowland,LOWLAND,652,LOWLAND,РАВНИНА,11
+12_valley,VALLEY,921,VALLEY,ДОЛИНА,12
+13_cave,CAVE,1155,CAVE,ПЕЩЕРА,13
+14_water,WATER,948,WATER,ВОДА,14
+15_sea,SEA,1474,SEA,МОРЕ,15
+16_foam,FOAM,1768,FOAM,ПЕНА,16
+17_lake,LAKE,624,LAKE,ОЗЕРО,17
+18_river,RIVER,666,RIVER,РЕКА,18
+19_creek,CREEK,947,CREEK,РУЧЕЙ,19
+20_spring,SPRING,849,SPRING,РОДНИК,20
+21_swamp,SWAMP,1145,SWAMP,БОЛОТО,21
+22_forest,FOREST,420,FOREST,ЛЕС,22
+23_stone,STONE,2125,STONE,КАМЕНЬ,23
+24_pebble,PEBBLE,961,PEBBLE,КАМЕШЕК,24
+25_gravel,GRAVEL,3028,GRAVEL,ГРАВИЙ,25
+26_sky,SKY,1732,SKY,НЕБО,26
+27_sun,SUN,1343,SUN,СОЛНЦЕ,27
+28_moon,MOON,1313,MOON,ЛУНА,28
+29_star,STAR,1430,STAR,ЗВЕЗДА,29
+30_lightning,LIGHTNING,1654,LIGHTNING,МОЛНИЯ,30
+31_thunder,THUNDER,1150,THUNDER,ГРОМ,31
+32_rainbow,RAINBOW,1733,RAINBOW,РАДУГА,32
+33_light,LIGHT,630,LIGHT,СВЕТ,33
+34_shadow,SHADOW,2275,SHADOW,ТЕНЬ,34
+35_dew,DEW,1977,DEW,РОСА,35
+36_wind,WIND,960,WIND,ВЕТЕР,36
+37_cloud,CLOUD,1489,CLOUD,ОБЛАКО,37
+38_fog,FOG,249,FOG,ТУМАН,38
+39_rain,RAIN,658,RAIN,ДОЖДЬ,39
+40_snow,SNOW,784,SNOW,СНЕГ,40
+41_hail,HAIL,609,HAIL,ГРАД,41
+42_rainv,RAIN (V),1253,RAIN (V),ИДТИ (О ДОЖДЕ),42
+43_ice,ICE,617,ICE,ЛЁД,43
+44_frost,FROST,2942,FROST,ИНЕЙ,44
+45_freeze,FREEZE,,FREEZE,МЁРЗНУТЬ,45
+46_meltintr,MELT (INTR),2334,MELT (INTR),ТАЯТЬ,46
+47_melttr,MELT (TR),,MELT (TR),РАСТАПЛИВАТЬ,47
+48_fire,FIRE,221,FIRE,ОГОНЬ,48
+49_smoke,SMOKE,778,SMOKE,ДЫМ,49
+50_ash,ASH,646,ASH,ЗОЛА,50
+51_burnintr,BURN (INTR),1428,BURN (INTR),ГОРЕТЬ,51
+52_burntr,BURN (TR),141,BURN (TR),ЖЕЧЬ,52
+53_startburning,START BURNING,,START BURNING,ЗАГОРАТЬСЯ,53
+54_ignite,IGNITE,737,IGNITE,ЗАЖИГАТЬ,54
+55_becomeextinguished,BECOME EXTINGUISHED,2209,BECOME EXTINGUISHED,ГАСНУТЬ,55
+56_extinguish,EXTINGUISH,127,EXTINGUISH,ТУШИТЬ,56
+57_becomecold,BECOME COLD,3068,BECOME COLD,ОСТЫВАТЬ,57
+58_firewood,FIREWOOD,10,FIREWOOD,ДРОВА,58
+59_charcoal,CHARCOAL,1188,CHARCOAL,УГОЛЬ,59
+60_charcoalpiece,CHARCOAL PIECE,,CHARCOAL PIECE,УГОЛЁК,60
+61_embers,EMBERS,67,EMBERS,ГОРЯЩИЙ УГОЛЬ,61
+62_dungfuel,DUNG FUEL,,DUNG FUEL,КИЗЯК,62
+63_person,PERSON,683,PERSON,ЧЕЛОВЕК,63
+64_man,MAN,1554,MAN,МУЖЧИНА,64
+65_woman,WOMAN,962,WOMAN,ЖЕНЩИНА,65
+66_maleanimal,MALE ANIMAL,2263,MALE ANIMAL,САМЕЦ,66
+67_femaleanimal,FEMALE ANIMAL,2262,FEMALE ANIMAL,САМКА,67
+68_boy,BOY,1366,BOY,МАЛЬЧИК,68
+69_girl,GIRL,1646,GIRL,ДЕВОЧКА,69
+70_child,CHILD,1801,CHILD,РЕБЁНОК,70
+71_infant,INFANT,1289,INFANT,МЛАДЕНЕЦ,71
+72_husband,HUSBAND,1200,HUSBAND,МУЖ,72
+73_wife,WIFE,1199,WIFE,ЖЕНА,73
+74_bride,BRIDE,1266,BRIDE,НЕВЕСТА,74
+75_bridegroom,BRIDEGROOM,,BRIDEGROOM,ЖЕНИХ,75
+76_marryasman,MARRY (AS MAN),2164,MARRY (AS MAN),ЖЕНИТЬСЯ,76
+77_marryasman,MARRY (AS MAN),2163,MARRY (AS MAN),ВЫЙТИ.ЗАМУЖ,77
+78_wedding,WEDDING,1259,WEDDING,СВАДЬБА,78
+79_father,FATHER,1217,FATHER,ОТЕЦ,79
+80_mother,MOTHER,1216,MOTHER,МАТЬ,80
+81_son,SON,1620,SON,СЫН,81
+82_daughter,DAUGHTER,1357,DAUGHTER,ДОЧЬ,82
+83_brother,BROTHER,1262,BROTHER,БРАТ,83
+84_sister,SISTER,1263,SISTER,СЕСТРА,84
+85_twins,TWINS,1005,TWINS,БЛИЗНЕЦЫ,85
+86_grandfatherfatheroffather,GRANDFATHER (FATHER OF FATHER),1383,GRANDFATHER (FATHER OF FATHER),ДЕДУШКА (ОТЕЦ ОТЦА),86
+87_grandfatherfatherofmother,GRANDFATHER (FATHER OF MOTHER),1383,GRANDFATHER (FATHER OF MOTHER),ДЕДУШКА (ОТЕЦ МАТЕРИ),87
+88_grandmothermotheroffather,GRANDMOTHER (MOTHER OF FATHER),1496,GRANDMOTHER (MOTHER OF FATHER),БАБУШКА (МАТЬ ОТЦА),88
+89_grandmothermotherofmother,GRANDMOTHER (MOTHER OF MOTHER),1496,GRANDMOTHER (MOTHER OF MOTHER),БАБУШКА (МАТЬ МАТЕРИ),89
+90_grandsonsonofson,GRANDSON (SON OF SON),1618,GRANDSON (SON OF SON),ВНУК (СЫН СЫНА),90
+91_grandsonsonofdaughter,GRANDSON (SON OF DAUGHTER),1618,GRANDSON (SON OF DAUGHTER),ВНУК (СЫН ДОЧЕРИ),91
+92_granddaughterdaughterofson,GRANDDAUGHTER (DAUGHTER OF SON),1619,GRANDDAUGHTER (DAUGHTER OF SON),ВНУЧКА (ДОЧЬ СЫНА),92
+93_granddaughterdaughterofdaughter,GRANDDAUGHTER (DAUGHTER OF DAUGHTER),1619,GRANDDAUGHTER (DAUGHTER OF DAUGHTER),ВНУЧКА (ДОЧЬ ДОЧЕРИ),93
+94_unclebrotheroffather,UNCLE (BROTHER OF FATHER),1327,UNCLE (BROTHER OF FATHER),ДЯДЯ (БРАТ ОТЦА),94
+95_unclebrotherofmother,UNCLE (BROTHER OF MOTHER),1327,UNCLE (BROTHER OF MOTHER),ДЯДЯ (БРАТ МАТЕРИ),95
+96_auntsisteroffather,AUNT (SISTER OF FATHER),1272,AUNT (SISTER OF FATHER),ТЁТЯ (СЕСТРА ОТЦА),96
+97_auntsisterofmother,AUNT (SISTER OF MOTHER),1272,AUNT (SISTER OF MOTHER),ТЁТЯ (СЕСТРА МАТЕРИ),97
+98_nephewsonofbrother,NEPHEW (SON OF BROTHER),1063,NEPHEW (SON OF BROTHER),ПЛЕМЯННИК (СЫН БРАТА),98
+99_nephewsonofsister,NEPHEW (SON OF SISTER),1063,NEPHEW (SON OF SISTER),ПЛЕМЯННИК (СЫН СЕСТРЫ),99
+100_niecedaughterofbrother,NIECE (DAUGHTER OF BROTHER),1642,NIECE (DAUGHTER OF BROTHER),ПЛЕМЯННИЦА (ДОЧЬ БРАТА),100
+101_niecedaughterofsister,NIECE (DAUGHTER OF SISTER),1642,NIECE (DAUGHTER OF SISTER),ПЛЕМЯННИЦА (ДОЧЬ СЕСТРЫ),101
+102_cousinmale,COUSIN (MALE),,COUSIN (MALE),ДВОЮРОДНЫЙ БРАТ,102
+103_cousinfemale,COUSIN (FEMALE),,COUSIN (FEMALE),ДВОЮРОДНАЯ СЕСТРА,103
+104_fatherinlawfatherofwife,FATHER-IN-LAW (FATHER OF WIFE),1055,FATHER-IN-LAW (FATHER OF WIFE),ТЕСТЬ,104
+105_fatherinlawfatherofhusband,FATHER-IN-LAW (FATHER OF HUSBAND),1055,FATHER-IN-LAW (FATHER OF HUSBAND),СВЁКОР,105
+106_motherinlawmotherofwife,MOTHER-IN-LAW (MOTHER OF WIFE),1050,MOTHER-IN-LAW (MOTHER OF WIFE),ТЁЩА,106
+107_motherinlawmotherofhusband,MOTHER-IN-LAW (MOTHER OF HUSBAND),1050,MOTHER-IN-LAW (MOTHER OF HUSBAND),СВЕКРОВЬ,107
+108_soninlaw,SON-IN-LAW,1056,SON-IN-LAW,ЗЯТЬ,108
+109_daughterinlawofaman,DAUGHTER-IN-LAW (OF A MAN),1057,DAUGHTER-IN-LAW (OF A MAN),СНОХА,109
+110_daughterinlawofawoman,DAUGHTER-IN-LAW (OF A WOMAN),1057,DAUGHTER-IN-LAW (OF A WOMAN),НЕВЕСТКА,110
+111_stepfather,STEPFATHER,237,STEPFATHER,ОТЧИМ,111
+112_stepmother,STEPMOTHER,236,STEPMOTHER,МАЧЕХА,112
+113_stepson,STEPSON,1059,STEPSON,ПАСЫНОК,113
+114_stepdaughter,STEPDAUGHTER,1058,STEPDAUGHTER,ПАДЧЕРИЦА,114
+115_orphan,ORPHAN,1149,ORPHAN,СИРОТА,115
+116_widow,WIDOW,1756,WIDOW,ВДОВА,116
+117_widower,WIDOWER,1981,WIDOWER,ВДОВЕЦ,117
+118_family,FAMILY,194,FAMILY,СЕМЬЯ,118
+119_clan,CLAN,302,CLAN,РОД,119
+122_this,THIS,1214,THIS,ЭТОТ,122
+123_thatmedial,THAT (MEDIAL),78,THAT (MEDIAL),ТОТ (ОКОЛО СЛУШАЮЩЕГО),123
+124_thatdistalhorizontal,"THAT (DISTAL, HORIZONTAL)",78,"THAT (DISTAL, HORIZONTAL)","ТОТ (ВДАЛИ, ПО ГОРИЗОНТАЛИ)",124
+129_wildanimal,WILD ANIMAL,958,WILD ANIMAL,ЗВЕРЬ,129
+130_cub,CUB,1801,CUB,ДЕТЕНЫШ,130
+131_livestock,LIVESTOCK,631,LIVESTOCK,СКОТ (ДОМАШНИЙ),131
+132_pasturesummer,PASTURE (SUMMER),649,PASTURE (SUMMER),ПАСТБИЩЕ (ЛЕТНЕЕ),132
+133_herdsmanofcows,HERDSMAN (OF COWS),263,HERDSMAN (OF COWS),ПАСТУХ (КОРОВ),133
+134_shepherd,SHEPHERD,263,SHEPHERD,ЧАБАН,134
+135_cattleshed,CATTLE SHED,,CATTLE SHED,ХЛЕВ,135
+136_sheepshed,SHEEP SHED,,SHEEP SHED,ОВЧАРНЯ,136
+137_sheepmilkingshed,SHEEP MILKING SHED,,SHEEP MILKING SHED,ЗАГОН ДЛЯ ДОЙКИ ОВЕЦ,137
+138_hayloft,HAYLOFT,,HAYLOFT,СЕНОВАЛ,138
+139_threshingfloor,THRESHING-FLOOR,223,THRESHING-FLOOR,ГУМНО,139
+140_sheaf,SHEAF,,SHEAF,СНОП,140
+141_stack,STACK,,STACK,СТОГ,141
+142_largestack,LARGE STACK,,LARGE STACK,СТОГ БОЛЬШОЙ,142
+143_cow,COW,1007,COW,КОРОВА,143
+144_bull,BULL,1008,BULL,БЫК,144
+145_ox,OX,1169,OX,ВОЛ,145
+146_heifer,HEIFER,,HEIFER,ТЕЛКА,146
+147_bullcalf,BULL-CALF,,BULL-CALF,БЫЧОК,147
+148_calf,CALF,1989,CALF,ТЕЛЁНОК,148
+149_earmark,EARMARK,,EARMARK,МЕТКА НА УХЕ ОВЦЫ,149
+150_sheepirrespofgender,SHEEP (IRRESP. OF GENDER),1331,SHEEP (IRRESP. OF GENDER),ОВЦА (ОБЩЕЕ СЛОВО),150
+151_ram,RAM,1344,RAM,БАРАН,151
+152_ewe,EWE,1345,EWE,ОВЦЕМАТКА,152
+153_lamb1year,LAMB (< 1 YEAR),820,LAMB (< 1 YEAR),ЯГНЁНОК (< 1 ГОДА),153
+154_youngsheep13years,YOUNG SHEEP (1-3 YEARS),,YOUNG SHEEP (1-3 YEARS),ОВЦА МОЛОДАЯ (1-3 ГОДА),154
+155_youngram13years,YOUNG RAM (1-3 YEARS),,YOUNG RAM (1-3 YEARS),БАРАШЕК (1-3 ГОДА),155
+156_boar,BOAR,1337,BOAR,КАБАН,156
+157_shegoat,SHE-GOAT,1502,SHE-GOAT,КОЗА,157
+158_hegoat,HE-GOAT,264,HE-GOAT,КОЗЁЛ,158
+159_youngshegoat13years,YOUNG SHE-GOAT (1-3 YEARS),,YOUNG SHE-GOAT (1-3 YEARS),КОЗА МОЛОДАЯ (1-3 ГОДА),159
+160_kid1year,KID (< 1 YEAR),1972,KID (< 1 YEAR),КОЗЛЁНОК,160
+161_horseirrespofgender,HORSE (IRRESP. OF GENDER),615,HORSE (IRRESP. OF GENDER),ЛОШАДЬ,161
+162_stallion,STALLION,936,STALLION,ЖЕРЕБЕЦ,162
+163_mare,MARE,938,MARE,КОБЫЛА,163
+164_foal,FOAL,1647,FOAL,ЖЕРЕБЁНОК,164
+165_donkey,DONKEY,1862,DONKEY,ОСЕЛ,165
+166_foalofdonkey,FOAL OF DONKEY,,FOAL OF DONKEY,ОСЛЁНОК,166
+167_mule,MULE,890,MULE,МУЛ,167
+168_rooster,ROOSTER,1511,ROOSTER,ПЕТУХ,168
+169_hen,HEN,1318,HEN,КУРИЦА,169
+170_chick,CHICK,2513,CHICK,ЦЫПЛЁНОК,170
+171_goose,GOOSE,1187,GOOSE,ГУСЬ,171
+172_duck,DUCK,1360,DUCK,УТКА,172
+173_nest,NEST,539,NEST,ГНЕЗДО,173
+174_bird,BIRD,937,BIRD,ПТИЦА,174
+175_heron,HERON,758,HERON,ЦАПЛЯ,175
+176_eagle,EAGLE,1905,EAGLE,ОРЕЛ,176
+177_hawk,HAWK,307,HAWK,ЯСТРЕБ,177
+178_falcon,FALCON,,FALCON,СОКОЛ,178
+179_bat,BAT,1793,BAT,ЛЕТУЧАЯ МЫШЬ,179
+180_crow,CROW,913,CROW,ВОРОНА,180
+181_magpie,MAGPIE,2039,MAGPIE,СОРОКА,181
+182_jackdaw,JACKDAW,,JACKDAW,ГАЛКА,182
+183_dove,DOVE,1853,DOVE,ГОЛУБЬ,183
+184_sparrow,SPARROW,1854,SPARROW,ВОРОБЕЙ,184
+185_owl,OWL,735,OWL,СОВА,185
+186_eagleowl,EAGLE-OWL,,EAGLE-OWL,ФИЛИН,186
+187_cuckoo,CUCKOO,2934,CUCKOO,КУКУШКА,187
+188_snowcock,SNOWCOCK,,SNOWCOCK,УЛАР,188
+189_partridge,PARTRIDGE,,PARTRIDGE,КУРОПАТКА,189
+190_swallow,SWALLOW,3077,SWALLOW,ЛАСТОЧКА,190
+191_dog,DOG,2009,DOG,СОБАКА,191
+192_femaledog,FEMALE DOG,2481,FEMALE DOG,СУКА,192
+193_puppyofdog,PUPPY OF DOG,74,PUPPY OF DOG,ЩЕНОК,193
+194_hare,HARE,1190,HARE,ЗАЯЦ,194
+195_cat,CAT,1208,CAT,КОШКА,195
+196_mouse,MOUSE,1491,MOUSE,МЫШЬ,196
+197_rat,RAT,1490,RAT,КРЫСА,197
+198_badger,BADGER,,BADGER,БАРСУК,198
+199_marten,MARTEN,,MARTEN,КУНИЦА,199
+200_squirrel,SQUIRREL,1628,SQUIRREL,БЕЛКА,200
+201_hedgehog,HEDGEHOG,1797,HEDGEHOG,ЁЖ,201
+202_fish,FISH,227,FISH,РЫБА,202
+203_wolf,WOLF,522,WOLF,ВОЛК,203
+204_bear,BEAR,1820,BEAR,МЕДВЕДЬ,204
+205_fox,FOX,1312,FOX,ЛИСА,205
+206_deer,DEER,1936,DEER,ОЛЕНЬ,206
+207_capracaucasica,CAPRA CAUCASICA,,CAPRA CAUCASICA,ГОРНЫЙ КОЗЁЛ,207
+208_roe,ROE,,ROE,КОСУЛЯ,208
+209_camel,CAMEL,1871,CAMEL,ВЕРБЛЮД,209
+210_louse,LOUSE,1392,LOUSE,ВОШЬ,210
+211_nit,NIT,267,NIT,ГНИДА,211
+212_flea,FLEA,232,FLEA,БЛОХА,212
+213_leech,LEECH,2273,LEECH,ПИЯВКА,213
+214_ant,ANT,587,ANT,МУРАВЕЙ,214
+215_gadfly,GADFLY,,GADFLY,СЛЕПЕНЬ,215
+216_moth,MOTH,2828,MOTH,МОЛЬ,216
+217_mite,MITE,,MITE,КЛЕЩ,217
+218_bedbug,BEDBUG,1949,BEDBUG,КЛОП,218
+219_spider,SPIDER,843,SPIDER,ПАУК,219
+220_spiderweb,SPIDER WEB,1065,SPIDER WEB,ПАУТИНА,220
+221_bee,BEE,665,BEE,ПЧЕЛА,221
+222_beeswax,BEESWAX,1931,BEESWAX,ВОСК,222
+223_beehive,BEEHIVE,88,BEEHIVE,УЛЕЙ,223
+224_wasp,WASP,1517,WASP,ОСА,224
+225_fly,FLY,1504,FLY,МУХА,225
+226_mosquito,MOSQUITO,1509,MOSQUITO,КОМАР,226
+227_earthworm,EARTHWORM,2350,EARTHWORM,ЧЕРВЬ ЗЕМЛЯНОЙ,227
+228_snake,SNAKE,730,SNAKE,ЗМЕЯ,228
+229_firefly,FIREFLY,206,FIREFLY,СВЕТЛЯЧОК,229
+230_butterfly,BUTTERFLY,1791,BUTTERFLY,БАБОЧКА,230
+231_grasshopper,GRASSHOPPER,607,GRASSHOPPER,КУЗНЕЧИК,231
+232_snail,SNAIL,1543,SNAIL,УЛИТКА,232
+233_frog,FROG,503,FROG,ЛЯГУШКА,233
+234_lizard,LIZARD,632,LIZARD,ЯЩЕРИЦА,234
+235_moo,MOO,,MOO,МЫЧАТЬ,235
+236_bleatsheep,BLEAT (SHEEP),,BLEAT (SHEEP),БЛЕЯТЬ (ОВЦА),236
+237_bleatgoat,BLEAT (GOAT),,BLEAT (GOAT),БЛЕЯТЬ (КОЗА),237
+238_neigh,NEIGH,,NEIGH,РЖАТЬ,238
+239_heehaw,HEE-HAW,,HEE-HAW,КРИЧАТЬ (ОСЁЛ),239
+240_meaow,MEAOW,,MEAOW,МЯУКАТЬ,240
+241_barkv,BARK (V.),,BARK (V.),ЛАЯТЬ,241
+242_roar,ROAR,,ROAR,РЫЧАТЬ,242
+243_howl,HOWL,,HOWL,ВЫТЬ,243
+244_crow,CROW,,CROW,КУКАРЕКАТЬ,244
+245_buzz,BUZZ,,BUZZ,ЖУЖЖАТЬ,245
+246_hiss,HISS,,HISS,ШИПЕТЬ,246
+247_body,BODY,1480,BODY,ТЕЛО,247
+248_side,SIDE,,SIDE,БОК,248
+249_skin,SKIN,2613,SKIN,КОЖА,249
+250_hideofgoatsandsheep,HIDE OF GOATS AND SHEEP,,HIDE OF GOATS AND SHEEP,ШКУРА МЕЛКОКОПЫТНОГО,250
+251_hideofcows,HIDE OF COWS,,HIDE OF COWS,ШКУРА КРУПНОКОПЫТНОГО,251
+252_woolofsheep,WOOL OF SHEEP,964,WOOL OF SHEEP,ШЕРСТЬ ОВЕЧЬЯ,252
+253_woolofgoats,WOOL OF GOATS,,WOOL OF GOATS,ШЕРСТЬ КОЗЬЯ,253
+254_hairmass,HAIR (MASS),2648,HAIR (MASS),ВОЛОСЫ,254
+255_hairsingle,HAIR (SINGLE),,HAIR (SINGLE),ВОЛОС,255
+256_malehaircut,MALE HAIRCUT,,MALE HAIRCUT,ПРИЧЕСКА МУЖСКАЯ,256
+257_beard,BEARD,678,BEARD,БОРОДА,257
+258_moustache,MOUSTACHE,1165,MOUSTACHE,УСЫ,258
+259_combofbirds,COMB (OF BIRDS),188,COMB (OF BIRDS),ПТИЧИЙ ГРЕБЕНЬ,259
+260_mane,MANE,1918,MANE,ГРИВА ЛОШАДИ,260
+261_dandruff,DANDRUFF,576,DANDRUFF,ПЕРХОТЬ,261
+262_blood,BLOOD,946,BLOOD,КРОВЬ,262
+263_veinartery,"VEIN, ARTERY",1924,"VEIN, ARTERY",КРОВЕНОСНЫЙ СОСУД,263
+264_sinew,SINEW,,SINEW,СУХОЖИЛИЕ,264
+265_joint,JOINT,999,JOINT,СУСТАВ,265
+266_cartilage,CARTILAGE,,CARTILAGE,ХРЯЩ,266
+267_gall,GALL,,GALL,ЖЕЛЧЬ,267
+268_urine,URINE,1142,URINE,МОЧА,268
+269_faeces,FAECES,675,FAECES,КАЛ,269
+270_liquidstool,LIQUID STOOL,,LIQUID STOOL,КАЛ ЖИДКИЙ,270
+271_dungofcow,DUNG (OF COW),2057,DUNG (OF COW),ПОМЕТ КОРОВЫ,271
+272_bone,BONE,1394,BONE,КОСТЬ,272
+273_rib,RIB,801,RIB,РЕБРО,273
+274_horn,HORN,1393,HORN,РОГ,274
+275_tail,TAIL,1220,TAIL,ХВОСТ,275
+276_tailfat,TAIL FAT,,TAIL FAT,КУРДЮК,276
+277_backanatomical,BACK (ANATOMICAL),1291,BACK (ANATOMICAL),СПИНА,277
+278_spine,SPINE,805,SPINE,ПОЗВОНОЧНИК,278
+279_head,HEAD,1256,HEAD,ГОЛОВА,279
+280_templesideofhead,TEMPLE (SIDE OF HEAD),1604,TEMPLE (SIDE OF HEAD),ВИСОК,280
+281_skull,SKULL,1605,SKULL,ЧЕРЕП,281
+282_brain,BRAIN,1583,BRAIN,МОЗГ ГОЛОВНОЙ,282
+283_marrow,MARROW,,MARROW,МОЗГ КОСТНЫЙ,283
+284_face,FACE,1560,FACE,ЛИЦО,284
+285_forehead,FOREHEAD,123,FOREHEAD,ЛОБ,285
+286_jaw,JAW,798,JAW,ЧЕЛЮСТЬ,286
+287_cheek,CHEEK,1730,CHEEK,ЩЕКА,287
+288_eye,EYE,1248,EYE,ГЛАЗ,288
+289_eyebrow,EYEBROW,1173,EYEBROW,БРОВЬ,289
+290_eyelash,EYELASH,1540,EYELASH,РЕСНИЦА,290
+291_ear,EAR,1247,EAR,УХО,291
+292_earwax,EARWAX,32,EARWAX,УШНАЯ СЕРА,292
+293_nose,NOSE,1221,NOSE,НОС,293
+294_snivel,SNIVEL,208,SNIVEL,СОПЛИ,294
+295_shrimpinnose,SHRIMP (IN NOSE),,SHRIMP (IN NOSE),КОЗЯВКА,295
+296_mouthexternal,MOUTH (EXTERNAL),674,MOUTH (EXTERNAL),РОТ (ВНЕШНИЙ),296
+297_mouthinternaloralcavity,"MOUTH (INTERNAL, ORAL CAVITY)",2674,"MOUTH (INTERNAL, ORAL CAVITY)",РОТ (ВНУТРЕННИЙ),297
+298_beak,BEAK,73,BEAK,КЛЮВ,298
+299_lip,LIP,478,LIP,ГУБА,299
+300_tongue,TONGUE,1205,TONGUE,ЯЗЫК (ОРГАН),300
+301_tooth,TOOTH,1380,TOOTH,ЗУБ,301
+302_fangofdog,FANG (OF DOG),,FANG (OF DOG),КЛЫК (СОБАКИ),302
+303_molartooth,MOLARTOOTH,1049,MOLARTOOTH,КОРЕННОЙ ЗУБ (МОЛЯР),303
+304_gums,GUMS,139,GUMS,ДЁСНЫ,304
+305_neck,NECK,1333,NECK,ШЕЯ,305
+306_adamsapple,ADAM’S APPLE,802,ADAM’S APPLE,КАДЫК,306
+307_chin,CHIN,1510,CHIN,ПОДБОРОДОК,307
+308_backofhead,BACK OF HEAD,523,BACK OF HEAD,ЗАТЫЛОК,308
+309_throat,THROAT,1346,THROAT,ГОРЛО,309
+310_shoulder,SHOULDER,1482,SHOULDER,ПЛЕЧО,310
+311_arm,ARM,1673,ARM,РУКА,311
+312_hand,HAND,1277,HAND,КИСТЬ РУКИ,312
+313_handfulonehand,HANDFUL (ONE HAND),,HANDFUL (ONE HAND),ГОРСТЬ (ОДНОЙ РУКИ),313
+314_handfultwohands,HANDFUL (TWO HANDS),,HANDFUL (TWO HANDS),ГОРСТЬ (ДВУХ РУК),314
+315_paw,PAW,2965,PAW,ЛАПА,315
+316_fist,FIST,1473,FIST,КУЛАК,316
+317_armpit,ARMPIT,1886,ARMPIT,ПОДМЫШКА,317
+318_elbow,ELBOW,981,ELBOW,ЛОКОТЬ,318
+319_palmofhand,PALM OF HAND,1183,PALM OF HAND,ЛАДОНЬ,319
+320_finger,FINGER,1303,FINGER,ПАЛЕЦ,320
+321_fingernail,FINGERNAIL,1258,FINGERNAIL,НОГОТЬ,321
+322_claw,CLAW,72,CLAW,КОГОТЬ,322
+323_leg,LEG,1297,LEG,НОГА (ВЫШЕ СТУПНИ),323
+324_foot,FOOT,1301,FOOT,НОГА (СТУПНЯ),324
+325_thigh,THIGH,800,THIGH,БЕДРО,325
+326_shin,SHIN,186,SHIN,ГОЛЕНЬ,326
+327_knee,KNEE,1371,KNEE,КОЛЕНО,327
+328_heel,HEEL,980,HEEL,ПЯТКА,328
+329_footprint,FOOTPRINT,318,FOOTPRINT,СЛЕД (НОГИ),329
+330_toe,TOE,1389,TOE,ПАЛЕЦ НОГИ,330
+331_hoof,HOOF,152,HOOF,КОПЫТО,331
+332_wing,WING,1257,WING,КРЫЛО,332
+333_feather,FEATHER,1201,FEATHER,ПЕРО,333
+334_chest,CHEST,1592,CHEST,ГРУДЬ,334
+335_breast,BREAST,1402,BREAST,ГРУДЬ ЖЕНСКАЯ,335
+336_nipple,NIPPLE,796,NIPPLE,СОСОК,336
+337_udder,UDDER,154,UDDER,ВЫМЯ,337
+338_navel,NAVEL,1838,NAVEL,ПУПОК,338
+339_heart,HEART,1223,HEART,СЕРДЦЕ,339
+340_lung,LUNG,688,LUNG,ЛЕГКОЕ,340
+341_liver,LIVER,1224,LIVER,ПЕЧЕНЬ,341
+342_kidney,KIDNEY,489,KIDNEY,ПОЧКА,342
+343_spleen,SPLEEN,1744,SPLEEN,СЕЛЕЗЕНКА,343
+344_stomach,STOMACH,819,STOMACH,ЖЕЛУДОК,344
+345_belly,BELLY,1251,BELLY,ЖИВОТ,345
+346_intestinesguts,"INTESTINES, GUTS",1991,"INTESTINES, GUTS",КИШКИ,346
+347_gullet,GULLET,,GULLET,ПИЩЕВОД,347
+348_fatofanimals,FAT OF ANIMALS,,FAT OF ANIMALS,ЖИР (ЧАСТЬ ЖИВОТНОГО),348
+349_fatadj,FAT (ADJ),1279,FAT (ADJ),ЖИРНЫЙ,349
+350_buttocks,BUTTOCKS,834,BUTTOCKS,ЯГОДИЦЫ,350
+351_womb,WOMB,804,WOMB,МАТКА,351
+352_vagina,VAGINA,1836,VAGINA,ВЛАГАЛИЩЕ,352
+353_placenta,PLACENTA,,PLACENTA,ПЛАЦЕНТА,353
+354_umbilicalcord,UMBILICAL CORD,2663,UMBILICAL CORD,ПУПОВИНА,354
+355_testicles,TESTICLES,797,TESTICLES,ЯИЧКИ МУЖСКИЕ,355
+356_penis,PENIS,1222,PENIS,ЧЛЕН МУЖСКОЙ,356
+357_sperm,SPERM,1505,SPERM,СПЕРМА,357
+358_breathe,BREATHE,1407,BREATHE,ДЫШАТЬ,358
+359_yawn,YAWN,1028,YAWN,ЗЕВАТЬ,359
+360_cough,COUGH,879,COUGH,КАШЛЯТЬ,360
+361_sneeze,SNEEZE,1621,SNEEZE,ЧИХАТЬ,361
+362_perspire,PERSPIRE,126,PERSPIRE,ПОТЕТЬ,362
+363_sweat,SWEAT,125,SWEAT,ПОТ,363
+364_spit,SPIT,1440,SPIT,ПЛЕВАТЬ,364
+365_vomit,VOMIT,1278,VOMIT,БЛЕВАТЬ,365
+366_belch,BELCH,,BELCH,ОТРЫГИВАТЬ,366
+367_bite,BITE,1403,BITE,КУСАТЬ,367
+368_lick,LICK,319,LICK,ЛИЗАТЬ,368
+369_saliva,SALIVA,1503,SALIVA,СЛЮНА,369
+370_sleep,SLEEP,1585,SLEEP,СПАТЬ,370
+371_snore,SNORE,1983,SNORE,ХРАПЕТЬ,371
+372_dream,DREAM,2374,DREAM,СНОВИДЕНИЕ,372
+373_wakeup,WAKE UP,1602,WAKE UP,ПРОСЫПАТЬСЯ,373
+374_breakwind,BREAK WIND,1159,BREAK WIND,ОСВОБОДИТЬСЯ ОТ ГАЗОВ,374
+375_urinate,URINATE,592,URINATE,МОЧИТЬСЯ,375
+376_defecate,DEFECATE,676,DEFECATE,ИСПРАЖНЯТЬСЯ,376
+377_copulate,COPULATE,1785,COPULATE,СОВОКУПЛЯТЬСЯ,377
+378_shiverfromcold,SHIVER (FROM COLD),52,SHIVER (FROM COLD),ДРОЖАТЬ (ОТ ХОЛОДА),378
+379_shudder,SHUDDER,52,SHUDDER,ВЗДРАГИВАТЬ,379
+380_bathe,BATHE,138,BATHE,МЫТЬСЯ,380
+381_givebirth,GIVE BIRTH,1195,GIVE BIRTH,РОЖАТЬ,381
+382_beborn,BE BORN,1090,BE BORN,РОЖДАТЬСЯ,382
+383_pregnant,PREGNANT,1123,PREGNANT,БЕРЕМЕННАЯ,383
+384_liveexist,"LIVE, EXIST",1422,"LIVE, EXIST","ЖИТЬ, СУЩЕСТВОВАТЬ",384
+385_alive,ALIVE,3000,ALIVE,ЖИВОЙ,385
+386_die,DIE,1494,DIE,УМИРАТЬ,386
+387_dead,DEAD,1625,DEAD,МЕРТВЫЙ,387
+388_kill,KILL,1417,KILL,УБИВАТЬ,388
+389_corpseofhuman,CORPSE (OF HUMAN),767,CORPSE (OF HUMAN),ТРУП (ЧЕЛОВЕКА),389
+390_carcassofanimal,CARCASS (OF ANIMAL),1770,CARCASS (OF ANIMAL),ТУША (ЖИВОТНОГО),390
+391_burythedead,BURY (THE DEAD),,BURY (THE DEAD),ХОРОНИТЬ,391
+392_shroud,SHROUD,,SHROUD,САВАН,392
+393_grave,GRAVE,1773,GRAVE,МОГИЛА,393
+394_tombstone,TOMBSTONE,,TOMBSTONE,МОГИЛЬНЫЙ КАМЕНЬ,394
+395_strong,STRONG,785,STRONG,СИЛЬНЫЙ,395
+396_healthy,HEALTHY,1364,HEALTHY,ЗДОРОВЫЙ,396
+397_sick,SICK,1847,SICK,БОЛЬНОЙ,397
+398_thinofperson,THIN (OF PERSON),1400,THIN (OF PERSON),ХУДОЙ,398
+399_fever,FEVER,1534,FEVER,"ЖАР, ЛИХОРАДКА",399
+400_wound,WOUND,1109,WOUND,РАНА,400
+401_spot,SPOT,,SPOT,ПРЫЩ,401
+402_furuncle,FURUNCLE,,FURUNCLE,"ЧИРЕЙ, НАРЫВ",402
+403_blister,BLISTER,1584,BLISTER,МОЗОЛЬ,403
+404_tumor,TUMOR,1903,TUMOR,ОПУХОЛЬ,404
+405_swell,SWELL,1573,SWELL,ОПУХАТЬ,405
+406_itch,ITCH,148,ITCH,"ЧЕСАТЬСЯ, ЗУДЕТЬ",406
+407_pus,PUS,1808,PUS,ГНОЙ,407
+408_scar,SCAR,497,SCAR,ШРАМ,408
+409_hurtintrofbodypart,"HURT (INTR, OF BODY PART)",,"HURT (INTR, OF BODY PART)",БОЛЕТЬ (О ЧАСТИ ТЕЛА),409
+410_healtr,HEAL (TR),499,HEAL (TR),ЛЕЧИТЬ,410
+411_poison,POISON,655,POISON,ЯД,411
+412_tired,TIRED,1757,TIRED,УСТАЛЫЙ,412
+413_gettired,GET TIRED,1996,GET TIRED,УСТАВАТЬ,413
+414_rest,REST,,REST,ОТДЫХАТЬ,414
+415_lazy,LAZY,1564,LAZY,ЛЕНИВЫЙ,415
+416_bald,BALD,1125,BALD,ЛЫСЫЙ,416
+417_lame,LAME,320,LAME,ХРОМОЙ,417
+418_golimping,GO LIMPING,366,GO LIMPING,ХРОМАТЬ,418
+419_deaf,DEAF,996,DEAF,ГЛУХОЙ,419
+420_mute,MUTE,1666,MUTE,НЕМОЙ,420
+421_blind,BLIND,1653,BLIND,СЛЕПОЙ,421
+422_intoxicated,INTOXICATED,1463,INTOXICATED,ПЬЯНЫЙ,422
+423_naked,NAKED,590,NAKED,ГОЛЫЙ,423
+424_eattr,EAT (TR),1336,EAT (TR),ЕСТЬ (ПЕРЕХ.),424
+425_eatintr,EAT (INTR),1336,EAT (INTR),ЕСТЬ (НЕПЕРЕХ.),425
+426_feedcattle,FEED (CATTLE),739,FEED (CATTLE),КОРМИТЬ (СКОТИНУ),426
+427_food,FOOD,256,FOOD,ПИЩА,427
+428_ripen,RIPEN,179,RIPEN,СОЗРЕВАТЬ,428
+429_rot,ROT,2907,ROT,ГНИТЬ,429
+430_rotten,ROTTEN,,ROTTEN,ГНИЛОЙ,430
+431_mildew,MILDEW,,MILDEW,ПЛЕСЕНЬ,431
+432_witherofflower,WITHER (OF FLOWER),,WITHER (OF FLOWER),ВЯНУТЬ (О ЦВЕТКЕ),432
+433_drink,DRINK,1401,DRINK,ПИТЬ,433
+434_drinksip,DRINK (SIP),1401,DRINK (SIP),ПИТЬ (ГЛОТКАМИ),434
+435_behungry,BE HUNGRY,1533,BE HUNGRY,БЫТЬ ГОЛОДНЫМ,435
+436_bethirsty,BE THIRSTY,847,BE THIRSTY,ХОТЕТЬ ПИТЬ,436
+437_suckv,SUCK (V),1421,SUCK (V),СОСАТЬ,437
+438_chewv,CHEW (V),321,CHEW (V),ЖЕВАТЬ,438
+439_swallowv,SWALLOW (V),897,SWALLOW (V),ГЛОТАТЬ,439
+440_gnawv,GNAW (V),2706,GNAW (V),ГРЫЗТЬ,440
+441_boiltrfood,"BOIL (TR, FOOD)",,"BOIL (TR, FOOD)",ВАРИТЬ,441
+442_boilintroffood,"BOIL (INTR, OF FOOD)",,"BOIL (INTR, OF FOOD)",ВАРИТЬСЯ,442
+443_boiltrofwater,"BOIL (TR, OF WATER)",2492,"BOIL (TR, OF WATER)",КИПЯТИТЬ,443
+444_boilintrofwater,"BOIL (INTR, OF WATER)",792,"BOIL (INTR, OF WATER)",КИПЕТЬ,444
+445_frytrfood,"FRY (TR, FOOD)",991,"FRY (TR, FOOD)",ЖАРИТЬ,445
+446_baketrofbread,"BAKE (TR, OF BREAD)",183,"BAKE (TR, OF BREAD)",ПЕЧЬ (ХЛЕБ),446
+447_lidofcauldron,LID (OF CAULDRON),2319,LID (OF CAULDRON),КРЫШКА (КОТЛА),447
+448_cauldronmetal,CAULDRON (METAL),1462,CAULDRON (METAL),КОТЕЛ (МЕТАЛЛИЧЕСКИЙ),448
+449_claypot,CLAY POT,2055,CLAY POT,ГОРШОК (ГЛИНЯНЫЙ),449
+450_bowl,BOWL,1530,BOWL,МИСКА,450
+451_plate,PLATE,480,PLATE,ТАРЕЛКА,451
+452_dishes,DISHES,,DISHES,ПОСУДА,452
+453_pitcherforcarryingwater,PITCHER FOR CARRYING WATER,120,PITCHER FOR CARRYING WATER,КУВШИН ДЛЯ НОШЕНИЯ ВОДЫ,453
+454_spoon,SPOON,1378,SPOON,ЛОЖКА,454
+455_fork,FORK,1302,FORK,ВИЛКА,455
+456_ladle,LADLE,2657,LADLE,ПОЛОВНИК,456
+457_skimmer,SKIMMER,,SKIMMER,ШУМОВКА,457
+458_flourmeasure,FLOUR MEASURE,,FLOUR MEASURE,МЕРКА ДЛЯ МУКИ (СРЕДНЯЯ),458
+459_sieven,SIEVE (N),,SIEVE (N),СИТО,459
+460_peeltroffruit,"PEEL (TR, OF FRUIT)",275,"PEEL (TR, OF FRUIT)",ЧИСТИТЬ (ФРУКТЫ),460
+461_sievev,SIEVE (V),86,SIEVE (V),ПРОСЕИВАТЬ,461
+462_strain,STRAIN,940,STRAIN,ПРОЦЕЖИВАТЬ,462
+463_mixtr,MIX (TR),2017,MIX (TR),СМЕШИВАТЬ,463
+464_mixintr,MIX (INTR),2017,MIX (INTR),СМЕШИВАТЬСЯ,464
+465_stir,STIR,696,STIR,РАЗМЕШИВАТЬ,465
+466_bread,BREAD,1368,BREAD,ХЛЕБ,466
+467_friedgrainflour,FRIED GRAIN FLOUR,,FRIED GRAIN FLOUR,ТОЛОКНО,467
+468_malt,MALT,,MALT,СОЛОД,468
+469_friedgrain,FRIED GRAIN,,FRIED GRAIN,ЖАРЕНОЕ ЗЕРНО,469
+470_chudu,CHUDU,,CHUDU,ЧУДУ,470
+471_dough,DOUGH,273,DOUGH,ТЕСТО,471
+472_knead,KNEAD,274,KNEAD,МЕСИТЬ (ТЕСТО),472
+473_flour,FLOUR,1594,FLOUR,МУКА,473
+474_grindflour,GRIND (FLOUR),1033,GRIND (FLOUR),МОЛОТЬ (МУКУ),474
+475_mill,MILL,636,MILL,МЕЛЬНИЦА,475
+476_meat,MEAT,634,MEAT,МЯСО,476
+477_sausage,SAUSAGE,1874,SAUSAGE,КОЛБАСА,477
+478_broth,BROTH,,BROTH,БУЛЬОН,478
+479_khinkal,KHINKAL,,KHINKAL,ХИНКАЛ,479
+480_grape,GRAPE,920,GRAPE,ВИНОГРАД,480
+481_hazelnut,HAZELNUT,191,HAZELNUT,ОРЕХ ЛЕСНОЙ,481
+482_walnut,WALNUT,2042,WALNUT,ОРЕХ ГРЕЦКИЙ,482
+483_urbech,URBECH,,URBECH,УРБЕЧ,483
+484_grease,GREASE,2551,GREASE,ЖИР (КУЛИНАРНЫЙ ПРОДУКТ),484
+485_maw,MAW,,MAW,СЫЧУГ,485
+486_giblets,GIBLETS,,GIBLETS,ПОТРОХА,486
+487_salt,SALT,1274,SALT,СОЛЬ,487
+488_honey,HONEY,942,HONEY,МЁД,488
+489_sugar,SUGAR,862,SUGAR,САХАР,489
+490_milkn,MILK (N.),635,MILK (N.),МОЛОКО,490
+491_milkv,MILK (V.),93,MILK (V.),ДОИТЬ,491
+492_cheese,CHEESE,1569,CHEESE,СЫР,492
+493_whey,WHEY,,WHEY,СЫВОРОТКА,493
+494_foremilk,FOREMILK,,FOREMILK,МОЛОЗИВО,494
+495_sourcream,SOUR CREAM,,SOUR CREAM,СМЕТАНА,495
+496_butter,BUTTER,1245,BUTTER,СЛИВОЧНОЕ МАСЛО,496
+497_wine,WINE,1524,WINE,ВИНО,497
+498_fermenteddrink,FERMENTED DRINK,,FERMENTED DRINK,ХМЕЛЬНОЙ НАПИТОК,498
+499_fermentofdough,FERMENT (OF DOUGH),,FERMENT (OF DOUGH),БРОДИТЬ (О ТЕСТЕ),499
+500_curdleintrofmilk,"CURDLE (INTR, OF MILK)",,"CURDLE (INTR, OF MILK)",СВЕРТЫВАТЬСЯ (О МОЛОКЕ),500
+501_egg,EGG,744,EGG,ЯЙЦО,501
+502_eggyolk,EGG YOLK,1556,EGG YOLK,ЖЕЛТОК,502
+503_putondress,PUT ON (DRESS),158,PUT ON (DRESS),НАДЕВАТЬ ПЛАТЬЕ,503
+504_putontrousers,PUT ON (TROUSERS),158,PUT ON (TROUSERS),НАДЕВАТЬ ШТАНЫ,504
+505_putonhat,PUT ON (HAT),158,PUT ON (HAT),НАДЕВАТЬ ШАПКУ,505
+506_removedress,REMOVE (DRESS),2326,REMOVE (DRESS),СНИМАТЬ ПЛАТЬЕ,506
+507_removetrousers,REMOVE (TROUSERS),2326,REMOVE (TROUSERS),СНИМАТЬ ШТАНЫ,507
+508_removehat,REMOVE (HAT),2326,REMOVE (HAT),СНИМАТЬ ШАПКУ,508
+509_clothes,CLOTHES,1895,CLOTHES,ОДЕЖДА,509
+510_fabric,FABRIC,1616,FABRIC,"ТКАНЬ, СУКНО",510
+511_spin,SPIN,121,SPIN,ПРЯСТЬ,511
+512_spindle,SPINDLE,277,SPINDLE,ВЕРЕТЕНО,512
+513_loom,LOOM,1787,LOOM,ТКАЦКИЙ СТАНОК,513
+514_sew,SEW,1457,SEW,ШИТЬ,514
+515_cutoutcloth,CUT OUT (CLOTH),,CUT OUT (CLOTH),КРОИТЬ,515
+516_needle,NEEDLE,1382,NEEDLE,ИГЛА,516
+517_knittingneedle,KNITTING NEEDLE,,KNITTING NEEDLE,СПИЦА,517
+518_awl,AWL,278,AWL,ШИЛО,518
+519_thread,THREAD,1161,THREAD,НИТКА,519
+520_skein,SKEIN,,SKEIN,МОТОК НИТОК,520
+521_thimble,THIMBLE,,THIMBLE,НАПЕРСТОК,521
+522_woolcomb,WOOL COMB,,WOOL COMB,ГРЕБЕНЬ ДЛЯ ШЕРСТИ,522
+523_furcoat,FUR COAT,,FUR COAT,"ТУЛУП, ШУБА",523
+524_shepherdscoat,SHEPHERD’S COAT,,SHEPHERD’S COAT,БУРКА,524
+525_womansdress,WOMAN'S DRESS,474,WOMAN'S DRESS,ПЛАТЬЕ ЖЕНСКОЕ,525
+526_shirt,SHIRT,1622,SHIRT,РУБАШКА,526
+527_sleeve,SLEEVE,2953,SLEEVE,РУКАВ,527
+528_trousers,TROUSERS,809,TROUSERS,ШТАНЫ,528
+529_sock,SOCK,329,SOCK,НОСОК,529
+530_shoe,SHOE,,SHOE,"ОБУВЬ, БОТИНОК",530
+531_boot,BOOT,585,BOOT,САПОГ,531
+532_boottop,BOOT-TOP,,BOOT-TOP,ГОЛЕНИЩЕ,532
+533_headdress,HEADDRESS,771,HEADDRESS,ШАПКА,533
+534_belt,BELT,772,BELT,РЕМЕНЬ,534
+535_strap,STRAP,2973,STRAP,РЕМЕШОК,535
+536_mitten,MITTEN,867,MITTEN,РУКАВИЦА,536
+537_headscarf,HEADSCARF,3066,HEADSCARF,ПЛАТОК ЖЕНСКИЙ,537
+538_chukhta,CHUKHTA,,CHUKHTA,ЧУХТА,538
+539_pocket,POCKET,1851,POCKET,КАРМАН,539
+540_button,BUTTON,757,BUTTON,ПУГОВИЦА,540
+541_fastener,FASTENER,,FASTENER,ЗАСТЕЖКА,541
+542_ring,RING,1374,RING,КОЛЬЦО,542
+543_bracelet,BRACELET,1754,BRACELET,БРАСЛЕТ,543
+544_necklace,NECKLACE,1961,NECKLACE,ОЖЕРЕЛЬЕ,544
+545_bead,BEAD,1860,BEAD,БУСИНА,545
+546_earring,EARRING,770,EARRING,СЕРЕЖКА,546
+547_tattoo,TATTOO,68,TATTOO,ТАТУИРОВКА,547
+548_combn,COMB (N.),1475,COMB (N.),"РАСЧЕСКА, ГРЕБЕНЬ",548
+549_combvtr,COMB (V. TR.),2070,COMB (V. TR.),ПРИЧЕСЫВАТЬ,549
+550_braid,BRAID,1043,BRAID,КОСА ЖЕНСКАЯ,550
+551_fringe,FRINGE,,FRINGE,ЧЁЛКА,551
+552_braidspairof,BRAIDS (PAIR OF),,BRAIDS (PAIR OF),КОСЫ (ПАРА),552
+553_razor,RAZOR,151,RAZOR,БРИТВА,553
+554_shave,SHAVE,231,SHAVE,БРИТЬ,554
+555_cuthair,CUT (HAIR),,CUT (HAIR),СТРИЧЬ,555
+556_soap,SOAP,788,SOAP,МЫЛО,556
+557_mirror,MIRROR,1171,MIRROR,ЗЕРКАЛО,557
+558_house,HOUSE,1252,HOUSE,ДОМ,558
+559_ruins,RUINS,,RUINS,РАЗВАЛИНА,559
+560_yard,YARD,736,YARD,ДВОР,560
+561_meetingarea,MEETING AREA,,MEETING AREA,ГОДЕКАН,561
+562_room,ROOM,1450,ROOM,КОМНАТА,562
+563_door,DOOR,1567,DOOR,ДВЕРЬ,563
+564_gate,GATE,2940,GATE,ВОРОТА,564
+565_doorpost,DOORPOST,80,DOORPOST,ДВЕРНОЙ КОСЯК,565
+566_lockn,LOCK (N.),1596,LOCK (N.),ЗАМОК,566
+567_doorbolt,DOOR-BOLT,1012,DOOR-BOLT,ЗАСОВ,567
+568_key,KEY,1472,KEY,КЛЮЧ,568
+569_window,WINDOW,1375,WINDOW,ОКНО,569
+570_floor,FLOOR,1632,FLOOR,ПОЛ (ЗЕМЛЯНОЙ),570
+571_ceiling,CEILING,,CEILING,ПОТОЛОК,571
+572_wall,WALL,933,WALL,СТЕНА,572
+573_foundation,FOUNDATION,,FOUNDATION,ФУНДАМЕНТ,573
+574_fireplace,FIREPLACE,185,FIREPLACE,ОЧАГ,574
+575_claystoveforbread,CLAY STOVE FOR BREAD,,CLAY STOVE FOR BREAD,ПЕЧЬ ГЛИНЯНАЯ ДЛЯ ХЛЕБА,575
+576_chimney,CHIMNEY,1305,CHIMNEY,"ДЫМОХОД, ТРУБА",576
+577_stairs,STAIRS,34,STAIRS,ЛЕСТНИЦА,577
+578_bedclothes,BEDCLOTHES,,BEDCLOTHES,ПОСТЕЛЬ,578
+579_pillow,PILLOW,1044,PILLOW,ПОДУШКА,579
+580_blanket,BLANKET,806,BLANKET,ОДЕЯЛО,580
+581_cradle,CRADLE,2946,CRADLE,КОЛЫБЕЛЬ,581
+582_spinningtop,SPINNING TOP,,SPINNING TOP,ЮЛА,582
+583_chair,CHAIR,1476,CHAIR,СТУЛ,583
+584_stool,STOOL,2058,STOOL,ТАБУРЕТ,584
+585_table,TABLE,1775,TABLE,СТОЛ,585
+586_lamp,LAMP,2131,LAMP,ЛАМПА,586
+587_candle,CANDLE,1273,CANDLE,СВЕЧА,587
+588_gutter,GUTTER,,GUTTER,ЖЕЛОБ,588
+589_gutterforgrainatmill,GUTTER FOR GRAIN AT MILL,,GUTTER FOR GRAIN AT MILL,ЖЕЛОБ ДЛЯ ЗЕРНА НА МЕЛЬНИЦЕ,589
+590_gutterforwateratmill,GUTTER FOR WATER AT MILL,,GUTTER FOR WATER AT MILL,ЖЕЛОБ ДЛЯ ВОДЫ НА МЕЛЬНИЦЕ,590
+591_roof,ROOF,769,ROOF,КРЫША,591
+592_beam,BEAM,1132,BEAM,БАЛКА,592
+593_wallpost,WALLPOST,281,WALLPOST,СТОЛБ ОПОРНЫЙ,593
+594_board,BOARD,1227,BOARD,ДОСКА,594
+595_roofroller,ROOF ROLLER,,ROOF ROLLER,КАТОК ДЛЯ КРЫШИ,595
+597_slabforroof,SLAB FOR ROOF,,SLAB FOR ROOF,ПЛИТА ДЛЯ УКРЕПЛЕНИЯ КРАЕВ КРЫШИ,597
+598_mortar,MORTAR,1731,MORTAR,ЗЕМЛЯНОЙ РАСТВОР,598
+599_fieldforcultivation,FIELD (FOR CULTIVATION),212,FIELD (FOR CULTIVATION),ПОЛЕ (С/Х),599
+600_vegetablegarden,VEGETABLE GARDEN,586,VEGETABLE GARDEN,ОГОРОД,600
+601_fence,FENCE,1690,FENCE,ЗАБОР,601
+602_plow,PLOW,1921,PLOW,ПАХАТЬ,602
+603_furrow,FURROW,1794,FURROW,БОРОЗДА,603
+604_dig,DIG,1418,DIG,КОПАТЬ,604
+605_spade,SPADE,1176,SPADE,ЛОПАТА,605
+606_hoe,HOE,284,HOE,МОТЫГА,606
+607_pitchfork,PITCHFORK,337,PITCHFORK,ВИЛЫ,607
+608_rake,RAKE,338,RAKE,ГРАБЛИ,608
+609_pickaxe,PICK AXE,,PICK AXE,КИРКА,609
+610_wedge,WEDGE,,WEDGE,КЛИН,610
+611_stake,STAKE,,STAKE,КОЛ,611
+612_sow,SOW,748,SOW,СЕЯТЬ,612
+613_winnow,WINNOW,2462,WINNOW,ВЕЯТЬ,613
+614_seedsmass,SEEDS (MASS),714,SEEDS (MASS),СЕМЕНА (СОБИР.),614
+615_seedgranule,SEED GRANULE,714,SEED GRANULE,СЕМЯ,615
+616_mowvgrass,"MOW (V, GRASS)",190,"MOW (V, GRASS)",КОСИТЬ (ТРАВУ),616
+617_reapvcrops,"REAP (V, CROPS)",,"REAP (V, CROPS)",ЖАТЬ (УБИРАТЬ ЗЕРНОВЫЕ),617
+618_sickle,SICKLE,341,SICKLE,СЕРП,618
+619_scythe,SCYTHE,20,SCYTHE,КОСА,619
+620_ardplough,ARD PLOUGH,2154,ARD PLOUGH,СОХА,620
+621_ploughshare,PLOUGHSHARE,,PLOUGHSHARE,СОШНИК,621
+622_plough,PLOUGH,2154,PLOUGH,ПЛУГ,622
+623_thresh,THRESH,285,THRESH,МОЛОТИТЬ,623
+624_threshingboard,THRESHING BOARD,,THRESHING BOARD,МОЛОТИЛЬНАЯ ДОСКА,624
+625_earofcorn,EAR (OF CORN),,EAR (OF CORN),КОЛОС,625
+626_awn,AWN,,AWN,ОСТЬ,626
+627_straw,STRAW,2299,STRAW,СОЛОМА,627
+628_chaff,CHAFF,2363,CHAFF,МЯКИНА,628
+629_millet,MILLET,931,MILLET,ПРОСО,629
+630_grainbarleyoatsetc,"GRAIN (BARLEY, OATS ETC)",605,"GRAIN (BARLEY, OATS ETC)",ЗЕРНО,630
+631_wheat,WHEAT,1077,WHEAT,ПШЕНИЦА,631
+632_barley,BARLEY,932,BARLEY,ЯЧМЕНЬ,632
+633_rye,RYE,23,RYE,РОЖЬ,633
+634_oat,OAT,60,OAT,ОВЕС,634
+635_onion,ONION,2366,ONION,ЛУК,635
+636_garlic,GARLIC,2368,GARLIC,ЧЕСНОК,636
+637_pea,PEA,2025,PEA,ГОРОХ,637
+638_grass,GRASS,606,GRASS,ТРАВА,638
+639_hay,HAY,342,HAY,СЕНО,639
+640_root,ROOT,670,ROOT,КОРЕНЬ,640
+641_branch,BRANCH,1531,BRANCH,ВЕТКА,641
+642_leaf,LEAF,628,LEAF,ЛИСТ,642
+643_flower,FLOWER,239,FLOWER,ЦВЕТОК,643
+644_tree,TREE,906,TREE,ДЕРЕВО,644
+645_bush,BUSH,1683,BUSH,КУСТ,645
+646_oak,OAK,644,OAK,ДУБ,646
+647_birch,BIRCH,1855,BIRCH,БЕРЁЗА,647
+648_limetree,LIME TREE,,LIME TREE,ЛИПА,648
+649_willow,WILLOW,,WILLOW,ИВА,649
+650_stoneoffruit,STONE (OF FRUIT),1762,STONE (OF FRUIT),КОСТОЧКА,650
+651_treestump,TREE STUMP,241,TREE STUMP,ПЕНЬ,651
+652_treetrunk,TREE TRUNK,344,TREE TRUNK,СТВОЛ ДЕРЕВА,652
+653_tar,TAR,872,TAR,СМОЛА,653
+654_barkn,BARK (N.),1204,BARK (N.),КОРА,654
+655_woodchip,WOOD CHIP,,WOOD CHIP,ЩЕПКА,655
+656_stick,STICK,1295,STICK,ПАЛКА,656
+657_fruit,FRUIT,1507,FRUIT,ПЛОД,657
+658_apple,APPLE,1320,APPLE,ЯБЛОКО,658
+659_pear,PEAR,922,PEAR,ГРУША,659
+660_apricot,APRICOT,,APRICOT,АБРИКОС,660
+661_cherryplum,CHERRY PLUM,,CHERRY PLUM,АЛЫЧА,661
+662_plum,PLUM,,PLUM,СЛИВА,662
+663_barberry,BARBERRY,,BARBERRY,БАРБАРИС,663
+664_dogwood,DOGWOOD,,DOGWOOD,КИЗИЛ,664
+665_raspberry,RASPBERRY,,RASPBERRY,МАЛИНА,665
+666_strawberrywild,STRAWBERRY (WILD),3138,STRAWBERRY (WILD),ЗЕМЛЯНИКА,666
+667_rosehip,ROSE HIP,,ROSE HIP,ЯГОДА ШИПОВНИКА,667
+668_wildgarlic,WILD GARLIC,,WILD GARLIC,ЧЕРЕМША,668
+669_caraway,CARAWAY,,CARAWAY,ТМИН,669
+670_mint,MINT,,MINT,МЯТА,670
+671_burdock,BURDOCK,,BURDOCK,ЛОПУХ,671
+672_reed,REED,659,REED,КАМЫШ,672
+673_weed,WEED,,WEED,СОРНЯК,673
+674_thornsingle,THORN (SINGLE),124,THORN (SINGLE),КОЛЮЧКА,674
+675_thornyplant,THORNY PLANT,1168,THORNY PLANT,КОЛЮЧЕЕ ТРАВЯНИСТОЕ РАСТЕНИЕ,675
+676_nettle,NETTLE,33,NETTLE,КРАПИВА,676
+677_mushroom,MUSHROOM,641,MUSHROOM,ГРИБ,677
+678_do,DO,813,DO,ДЕЛАТЬ,678
+679_work,WORK,1086,WORK,РАБОТАТЬ,679
+680_collectivework,COLLECTIVE WORK,,COLLECTIVE WORK,КОЛЛЕКТИВНАЯ РАБОТА,680
+681_bendtr,BEND (TR),2224,BEND (TR),ГНУТЬ,681
+682_bendintr,BEND (INTR),,BEND (INTR),ГНУТЬСЯ,682
+683_tieobjects,TIE (OBJECTS),1917,TIE (OBJECTS),СВЯЗЫВАТЬ (ПРЕДМЕТЫ),683
+684_untieknotrope,"UNTIE (KNOT, ROPE)",352,"UNTIE (KNOT, ROPE)","РАЗВЯЗЫВАТЬ (УЗЕЛ, ВЕРЕВКУ)",684
+685_chain,CHAIN,1627,CHAIN,ЦЕПЬ,685
+686_ropecord,"ROPE, CORD",1218,"ROPE, CORD",ВЕРЁВКА,686
+687_knotnoun,KNOT (NOUN),760,KNOT (NOUN),УЗЕЛ,687
+688_beatofhuman,BEAT (OF HUMAN),,BEAT (OF HUMAN),"БИТЬ, ИЗБИВАТЬ",688
+689_hitonce,HIT (ONCE),1433,HIT (ONCE),УДАРЯТЬ (ОДНОКРАТНО),689
+690_cutwood,CUT (WOOD),,CUT (WOOD),РУБИТЬ,690
+691_cuttopieces,CUT TO PIECES,2156,CUT TO PIECES,"КРОШИТЬ, РЕЗАТЬ НА КУСКИ",691
+692_cut,CUT,,CUT,ПОРЕЗАТЬ,692
+693_slaughtercattle,SLAUGHTER (CATTLE),1796,SLAUGHTER (CATTLE),"ЗАРЕЗАТЬ, ЗАБИТЬ (СКОТИНУ)",693
+694_knife,KNIFE,1352,KNIFE,НОЖ,694
+695_scissors,SCISSORS,1328,SCISSORS,НОЖНИЦЫ,695
+696_axe,AXE,677,AXE,ТОПОР,696
+697_breakintr,BREAK (INTR),680,BREAK (INTR),ЛОМАТЬСЯ,697
+698_breaktr,BREAK (TR),680,BREAK (TR),ЛОМАТЬ,698
+699_tearintrofrope,"TEAR (INTR, OF ROPE)",460,"TEAR (INTR, OF ROPE)",РВАТЬСЯ (О ВЕРЁВКЕ),699
+700_teartr,TEAR (TR),1735,TEAR (TR),РВАТЬ,700
+701_tearoff,TEAR OFF,,TEAR OFF,"ОТРЫВАТЬ, ОТЛАМЫВАТЬ",701
+702_burst,BURST,,BURST,ЛОПНУТЬ,702
+703_flay,FLAY,291,FLAY,СВЕЖЕВАТЬ,703
+704_rubvbyhand,"RUB (V, BY HAND)",1449,"RUB (V, BY HAND)",ТЕРЕТЬ (РУКОЙ),704
+705_scratch,SCRATCH,1436,SCRATCH,ЧЕСАТЬ,705
+706_scrabble,SCRABBLE,,SCRABBLE,ЦАРАПАТЬ,706
+707_pull,PULL,1455,PULL,ТЯНУТЬ,707
+708_drag,DRAG,2030,DRAG,"ТАЩИТЬ, ВОЛОЧИТЬ",708
+709_hangtr,HANG (TR),357,HANG (TR),ВЕШАТЬ,709
+710_hangintr,HANG (INTR),2884,HANG (INTR),ВИСЕТЬ,710
+711_pressv,PRESS (V),1913,PRESS (V),"ДАВИТЬ, ЖАТЬ, СЖИМАТЬ",711
+712_pourtrliquid,"POUR (TR, LIQUID)",1487,"POUR (TR, LIQUID)",ЛИТЬ,712
+713_pourintrgranular,"POUR (INTR, GRANULAR)",,"POUR (INTR, GRANULAR)",СЫПАТЬСЯ,713
+714_pourtrgranular,"POUR (TR, GRANULAR)",,"POUR (TR, GRANULAR)",СЫПАТЬ,714
+715_wash,WASH,1453,WASH,МЫТЬ,715
+716_washlaundry,WASH (LAUNDRY),1453,WASH (LAUNDRY),СТИРАТЬ,716
+717_sweep,SWEEP,230,SWEEP,ПОДМЕТАТЬ,717
+718_broom,BROOM,245,BROOM,ВЕНИК,718
+719_trough,TROUGH,205,TROUGH,КОРЫТО,719
+720_hew,HEW,553,HEW,ТЕСАТЬ,720
+721_build,BUILD,1840,BUILD,СТРОИТЬ,721
+722_bore,BORE,1501,BORE,СВЕРЛИТЬ,722
+723_saw,SAW,1948,SAW,ПИЛА,723
+724_saw,SAW,,SAW,ПИЛИТЬ,724
+725_hammer,HAMMER,1481,HAMMER,МОЛОТОК,725
+726_sledgehammer,SLEDGEHAMMER,,SLEDGEHAMMER,КУВАЛДА,726
+727_nail,NAIL,502,NAIL,ГВОЗДЬ,727
+728_forge,FORGE,288,FORGE,КУЗНИЦА,728
+729_bellows,BELLOWS,,BELLOWS,КУЗНЕЧНЫЙ МЕХ,729
+730_tongs,TONGS,272,TONGS,ЩИПЦЫ ДЛЯ УГЛЕЙ,730
+731_flint,FLINT,,FLINT,КРЕМЕНЬ,731
+732_tinder,TINDER,,TINDER,ТРУТ,732
+733_anvil,ANVIL,1648,ANVIL,НАКОВАЛЬНЯ,733
+734_whettrknife,"WHET (TR, KNIFE)",,"WHET (TR, KNIFE)",ТОЧИТЬ (НОЖ),734
+735_whetstone,WHETSTONE,295,WHETSTONE,ТОЧИЛО,735
+736_gold,GOLD,1369,GOLD,ЗОЛОТО,736
+737_silver,SILVER,759,SILVER,СЕРЕБРО,737
+738_copper,COPPER,1825,COPPER,МЕДЬ,738
+739_bronze,BRONZE,,BRONZE,БРОНЗА,739
+740_iron,IRON,621,IRON,ЖЕЛЕЗО,740
+741_lead,LEAD,627,LEAD,СВИНЕЦ,741
+742_tin,TIN,893,TIN,ОЛОВО,742
+743_clay,CLAY,1399,CLAY,ГЛИНА,743
+744_glass,GLASS,604,GLASS,СТЕКЛО,744
+745_weave,WEAVE,133,WEAVE,ТКАТЬ,745
+746_basket,BASKET,1539,BASKET,КОРЗИНА,746
+747_chestbox,CHEST (BOX),,CHEST (BOX),СУНДУК,747
+748_waterskin,WATERSKIN,,WATERSKIN,БУРДЮК,748
+749_sack,SACK,2990,SACK,МЕШОК,749
+750_carpet,CARPET,,CARPET,КОВЕР (С ВОРСОМ),750
+751_mat,MAT,,MAT,ПАЛАС (КОВЁР БЕЗ ВОРСА),751
+752_rug,RUG,,RUG,ПАЛАС (ДОРОЖКА),752
+753_smeargreaseonfood,SMEAR (GREASE ON FOOD),364,SMEAR (GREASE ON FOOD),МАЗАТЬ (ЖИР НА ЕДУ),753
+754_rockintrofplant,"ROCK (INTR, OF PLANT)",,"ROCK (INTR, OF PLANT)",КАЧАТЬСЯ (О ДЕРЕВЕ),754
+755_turnintr,TURN (INTR),1588,TURN (INTR),КРУТИТЬСЯ,755
+757_turntr,TURN (TR.),1445,TURN (TR.),КРУТИТЬ,757
+758_riseofsun,RISE (OF SUN),568,RISE (OF SUN),ВОСХОДИТЬ (О СОЛНЦЕ),758
+759_fall,FALL,1280,FALL,ПАДАТЬ,759
+760_dripintr,DRIP (INTR),808,DRIP (INTR),КАПАТЬ (НЕПЕРЕХ.),760
+761_dropnofwater,"DROP (N, OF WATER)",2087,"DROP (N, OF WATER)",КАПЛЯ,761
+762_throwv,THROW (V),1456,THROW (V),"БРОСАТЬ, КИДАТЬ",762
+763_catchball,CATCH (BALL),702,CATCH (BALL),ЛОВИТЬ (МЯЧ),763
+764_shake,SHAKE,1909,SHAKE,ТРЯСТИ,764
+765_swingtrstick,"SWING (TR, STICK)",2901,"SWING (TR, STICK)",МАХАТЬ (ПАЛКОЙ),765
+766_walk,WALK,,WALK,ХОДИТЬ (О ЧЕЛОВЕКЕ),766
+767_swim,SWIM,1439,SWIM,ПЛАВАТЬ,767
+768_flyv,FLY (V),1441,FLY (V),ЛЕТЕТЬ,768
+769_blowvofperson,"BLOW (V, OF PERSON)",176,"BLOW (V, OF PERSON)",ДУТЬ (О ЧЕЛОВЕКЕ),769
+770_crawlvofperson,"CRAWL (V, OF PERSON)",96,"CRAWL (V, OF PERSON)",ПОЛЗТИ (О ЧЕЛОВЕКЕ),770
+771_crouch,CROUCH,296,CROUCH,ПРИСЕДАТЬ (НА КОРТОЧКАХ),771
+772_slideslip,"SLIDE, SLIP",,"SLIDE, SLIP",СКОЛЬЗИТЬ,772
+773_jumpleap,"JUMP, LEAP",1829,"JUMP, LEAP",ПРЫГАТЬ,773
+774_dance,DANCE,1879,DANCE,ТАНЦЕВАТЬ,774
+775_dancen,DANCE (N),,DANCE (N),ТАНЕЦ,775
+776_stepn,STEP (N),,STEP (N),ШАГ,776
+777_run,RUN,1519,RUN,БЕЖАТЬ,777
+778_go,GO,695,GO,ИДТИ,778
+779_goout,GO OUT,1107,GO OUT,ВЫХОДИТЬ,779
+780_come,COME,1446,COME,ПРИХОДИТЬ,780
+781_comeback,COME BACK,581,COME BACK,ВОЗВРАЩАТЬСЯ,781
+782_goaway,GO AWAY,,GO AWAY,УХОДИТЬ,782
+783_disappear,DISAPPEAR,485,DISAPPEAR,ИСЧЕЗАТЬ,783
+784_flee,FLEE,956,FLEE,УБЕГАТЬ,784
+785_arrive,ARRIVE,1387,ARRIVE,ДОЙТИ,785
+786_enter,ENTER,749,ENTER,ВХОДИТЬ,786
+787_carry,CARRY,412,CARRY,НЕСТИ,787
+788_send,SEND,1127,SEND,ПОСЫЛАТЬ,788
+789_drive,DRIVE,,DRIVE,ГНАТЬ,789
+790_mount,MOUNT,,MOUNT,САДИТЬСЯ ВЕРХОМ,790
+791_push,PUSH,1452,PUSH,ТОЛКАТЬ,791
+792_gatherintr,GATHER (INTR),,GATHER (INTR),СОБИРАТЬСЯ,792
+793_road,ROAD,667,ROAD,ДОРОГА,793
+794_bridge,BRIDGE,1011,BRIDGE,МОСТ,794
+795_carriage,CARRIAGE,122,CARRIAGE,АРБА,795
+796_sledge,SLEDGE,368,SLEDGE,САНИ,796
+797_wheel,WHEEL,710,WHEEL,КОЛЕСО,797
+798_axle,AXLE,1769,AXLE,ОСЬ,798
+799_yoke,YOKE,14,YOKE,ЯРМО,799
+800_burden,BURDEN,,BURDEN,НОША,800
+801_packsaddle,PACK SADDLE,,PACK SADDLE,ВЬЮК,801
+802_armful,ARMFUL,,ARMFUL,ОХАПКА,802
+803_saddle,SADDLE,3065,SADDLE,СЕДЛО,803
+804_bridle,BRIDLE,,BRIDLE,УЗДЕЧКА,804
+805_whip,WHIP,2630,WHIP,КНУТ,805
+806_stirrup,STIRRUP,,STIRRUP,СТРЕМЯ,806
+807_horseshoe,HORSESHOE,,HORSESHOE,ПОДКОВА,807
+808_ship,SHIP,740,SHIP,КОРАБЛЬ,808
+809_take,TAKE,1749,TAKE,БРАТЬ,809
+810_hold,HOLD,1448,HOLD,ДЕРЖАТЬ,810
+811_leavetr,LEAVE (TR),,LEAVE (TR),ОСТАВЛЯТЬ,811
+812_stay,STAY,987,STAY,ОСТАВАТЬСЯ,812
+813_seize,SEIZE,955,SEIZE,ОТНИМАТЬ,813
+814_give,GIVE,1447,GIVE,ДАВАТЬ,814
+815_save,SAVE,2008,SAVE,СПАСАТЬ,815
+816_destroy,DESTROY,681,DESTROY,РАЗРУШАТЬ,816
+817_lookfor,LOOK FOR,1468,LOOK FOR,ИСКАТЬ,817
+818_find,FIND,719,FIND,НАХОДИТЬ,818
+819_lose,LOSE,1660,LOSE,ТЕРЯТЬ,819
+820_release,RELEASE,1095,RELEASE,ОТПУСКАТЬ,820
+821_money,MONEY,1559,MONEY,ДЕНЬГИ,821
+822_rich,RICH,712,RICH,БОГАТЫЙ,822
+823_poor,POOR,1674,POOR,БЕДНЫЙ,823
+824_beggar,BEGGAR,1934,BEGGAR,НИЩИЙ,824
+825_lend,LEND,582,LEND,ДАВАТЬ В ДОЛГ,825
+826_borrow,BORROW,1823,BORROW,ЗАНИМАТЬ,826
+827_debtfinancial,DEBT (FINANCIAL),1914,DEBT (FINANCIAL),ДОЛГ (ДЕНЕЖНЫЙ),827
+828_buy,BUY,1869,BUY,ПОКУПАТЬ,828
+829_sell,SELL,1571,SELL,ПРОДАВАТЬ,829
+830_tradebarter,"TRADE, BARTER",2135,"TRADE, BARTER","ТОРГОВЛЯ, ОБМЕН",830
+831_price,PRICE,657,PRICE,ЦЕНА,831
+832_expensive,EXPENSIVE,1426,EXPENSIVE,ДОРОГОЙ,832
+833_cheap,CHEAP,1887,CHEAP,ДЕШЁВЫЙ,833
+834_weighintr,WEIGH (INTR),,WEIGH (INTR),ВЕСИТЬ,834
+835_behind,BEHIND,1686,BEHIND,"ЗА, СЗАДИ",835
+836_below,BELOW,1485,BELOW,ВНИЗУ,836
+837_before,BEFORE,3004,BEFORE,РАНЬШЕ,837
+838_infront,IN FRONT,1883,IN FRONT,ВПЕРЕДИ,838
+839_inside,INSIDE,1606,INSIDE,ВНУТРИ,839
+840_outside,OUTSIDE,762,OUTSIDE,СНАРУЖИ,840
+841_above,ABOVE,1741,ABOVE,ВВЕРХУ,841
+842_between,BETWEEN,689,BETWEEN,МЕЖДУ,842
+843_place,PLACE,723,PLACE,МЕСТО,843
+844_thing,THING,470,THING,ПРЕДМЕТ,844
+845_put,PUT,998,PUT,КЛАСТЬ,845
+846_sitdown,SIT DOWN,1649,SIT DOWN,САДИТЬСЯ,846
+847_sit,SIT,1416,SIT,СИДЕТЬ,847
+848_liedown,LIE DOWN,215,LIE DOWN,ЛОЖИТЬСЯ,848
+849_lie,LIE,1411,LIE,ЛЕЖАТЬ,849
+850_haltintr,HALT (INTR),2880,HALT (INTR),ОСТАНАВЛИВАТЬСЯ,850
+851_stand,STAND,1442,STAND,СТОЯТЬ,851
+852_standup,STAND UP,570,STAND UP,ВСТАВАТЬ,852
+853_gathertr,GATHER (TR),7,GATHER (TR),СОБИРАТЬ,853
+854_pickup,PICK UP,371,PICK UP,ПОДНИМАТЬ,854
+855_insert,INSERT,3071,INSERT,"ВСОВЫВАТЬ, ПРОДЕВАТЬ",855
+856_bindtr,BIND (TR),,BIND (TR),ПРИВЯЗЫВАТЬ,856
+857_unbindtr,UNBIND (TR),,UNBIND (TR),ОТВЯЗЫВАТЬ,857
+858_stickintr,STICK (INTR),254,STICK (INTR),ПРИЛИПАТЬ,858
+859_gluetr,GLUE (TR),,GLUE (TR),ПРИКЛЕИВАТЬ,859
+860_opentr,OPEN (TR),1156,OPEN (TR),ОТКРЫВАТЬ,860
+861_openintr,OPEN (INTR),,OPEN (INTR),ОТКРЫВАТЬСЯ,861
+862_closetr,CLOSE (TR),,CLOSE (TR),ЗАКРЫВАТЬ,862
+863_closeintr,CLOSE (INTR),,CLOSE (INTR),ЗАКРЫВАТЬСЯ,863
+864_unlocktr,UNLOCK (TR),,UNLOCK (TR),ОТПИРАТЬ,864
+865_locktr,LOCK (TR),,LOCK (TR),ЗАПИРАТЬ,865
+866_cover,COVER,761,COVER,НАКРЫВАТЬ,866
+867_hidetr,HIDE (TR),602,HIDE (TR),ПРЯТАТЬ,867
+868_hideintr,HIDE (INTR),2485,HIDE (INTR),ПРЯТЯТЬСЯ,868
+869_high,HIGH,1265,HIGH,ВЫСОКИЙ,869
+870_low,LOW,721,LOW,НИЗКИЙ,870
+871_topn,TOP (N),1753,TOP (N),ВЕРХУШКА,871
+872_bottomn,BOTTOM (N),690,BOTTOM (N),ДНО,872
+873_endofknife,END (OF KNIFE),742,END (OF KNIFE),"КОНЧИК, ОСТРИЕ",873
+874_edge,EDGE,863,EDGE,КРАЙ,874
+875_right,RIGHT,1019,RIGHT,ПРАВЫЙ,875
+876_left,LEFT,244,LEFT,ЛЕВЫЙ,876
+877_near,NEAR,1942,NEAR,БЛИЗКО,877
+878_far,FAR,1406,FAR,ДАЛЕКО,878
+879_grow,GROW,479,GROW,РАСТИ,879
+880_measure,MEASURE,1506,MEASURE,МЕРИТЬ,880
+881_greatspan,GREAT SPAN,,GREAT SPAN,ПЯДЬ БОЛЬШАЯ,881
+882_littlespan,LITTLE SPAN,,LITTLE SPAN,ПЯДЬ МАЛАЯ,882
+883_big,BIG,1202,BIG,БОЛЬШОЙ,883
+884_small,SMALL,1246,SMALL,МАЛЕНЬКИЙ,884
+885_long,LONG,1203,LONG,ДЛИННЫЙ,885
+886_short,SHORT,1645,SHORT,КОРОТКИЙ,886
+887_wide,WIDE,1243,WIDE,ШИРОКИЙ,887
+888_narrow,NARROW,1267,NARROW,УЗКИЙ ,888
+889_thick,THICK,1244,THICK,ТОЛСТЫЙ,889
+890_thin,THIN,2306,THIN,ТОНКИЙ,890
+891_deep,DEEP,1593,DEEP,ГЛУБОКИЙ,891
+892_shallow,SHALLOW,193,SHALLOW,МЕЛКИЙ,892
+893_flat,FLAT,1633,FLAT,ПЛОСКИЙ,893
+894_straight,STRAIGHT,1404,STRAIGHT,ПРЯМОЙ,894
+895_crooked,CROOKED,297,CROOKED,КРИВОЙ,895
+896_hook,HOOK,1071,HOOK,КРЮК,896
+897_corner,CORNER,192,CORNER,УГОЛ,897
+898_cross,CROSS,1367,CROSS,КРЕСТ,898
+899_round,ROUND,2302,ROUND,КРУГЛЫЙ,899
+900_ball,BALL,1845,BALL,МЯЧ,900
+901_hole,HOLE,1667,HOLE,ДЫРА,901
+902_pit,PIT,2539,PIT,ЯМА,902
+903_similar,SIMILAR,1558,SIMILAR,ПОХОЖИЙ,903
+904_other,OTHER,197,OTHER,ДРУГОЙ,904
+905_exchange,EXCHANGE,2509,EXCHANGE,МЕНЯТЬ,905
+906_one,ONE,1493,ONE,ОДИН,906
+907_two,TWO,1498,TWO,ДВА,907
+908_three,THREE,492,THREE,ТРИ,908
+909_four,FOUR,1500,FOUR,ЧЕТЫРЕ,909
+910_five,FIVE,493,FIVE,ПЯТЬ,910
+911_six,SIX,1703,SIX,ШЕСТЬ,911
+912_seven,SEVEN,1704,SEVEN,СЕМЬ,912
+913_eight,EIGHT,1705,EIGHT,ВОСЕМЬ,913
+914_nine,NINE,1483,NINE,ДЕВЯТЬ,914
+915_ten,TEN,1515,TEN,ДЕСЯТЬ,915
+916_eleven,ELEVEN,1706,ELEVEN,ОДИННАДЦАТЬ,916
+917_twelve,TWELVE,1707,TWELVE,ДВЕНАДЦАТЬ,917
+918_twenty,TWENTY,1710,TWENTY,ДВАДЦАТЬ,918
+919_thirty,THIRTY,1715,THIRTY,ТРИДЦАТЬ,919
+920_hundred,HUNDRED,1634,HUNDRED,СТО,920
+921_thousand,THOUSAND,1843,THOUSAND,ТЫСЯЧА,921
+922_first,FIRST,728,FIRST,ПЕРВЫЙ,922
+923_last,LAST,1529,LAST,ПОСЛЕДНИЙ,923
+924_second,SECOND,1384,SECOND,ВТОРОЙ,924
+925_count,COUNT,1420,COUNT,СЧИТАТЬ,925
+926_allpl,ALL (PL.),98,ALL (PL.),ВСЕ (МН.Ч.),926
+927_allsg,ALL (SG.),2277,ALL (SG.),ВЕСЬ (ЕД.Ч.),927
+928_every,EVERY,,EVERY,КАЖДЫЙ,928
+929_many,MANY,1198,MANY,МНОГО,929
+930_very,VERY,1311,VERY,ОЧЕНЬ,930
+931_few,FEW,2924,FEW,МАЛО,931
+932_full,FULL,1429,FULL,ПОЛНЫЙ,932
+933_satiated,SATIATED,106,SATIATED,СЫТЫЙ,933
+934_fillintr,FILL (INTR),,FILL (INTR),НАПОЛНЯТЬСЯ,934
+935_filltr,FILL (TR),2006,FILL (TR),НАПОЛНЯТЬ,935
+936_empty,EMPTY,1624,EMPTY,ПУСТОЙ,936
+937_piece,PIECE,594,PIECE,КУСОК,937
+938_half,HALF,816,HALF,ПОЛОВИНА,938
+939_pair,PAIR,1888,PAIR,ПАРА,939
+940_new,NEW,1231,NEW,НОВЫЙ,940
+941_young,YOUNG,1207,YOUNG,МОЛОДОЙ,941
+942_oldofperson,OLD (OF PERSON),2112,OLD (OF PERSON),СТАРЫЙ (О ЧЕЛОВЕКЕ),942
+943_oldofthing,OLD (OF THING),2113,OLD (OF THING),СТАРЫЙ (О ВЕЩИ),943
+944_now,NOW,1376,NOW,СЕЙЧАС,944
+945_quickly,QUICKLY,1631,QUICKLY,БЫСТРО,945
+946_slowly,SLOWLY,701,SLOWLY,МЕДЛЕННО,946
+947_beginintr,BEGIN (INTR),,BEGIN (INTR),НАЧИНАТЬСЯ,947
+948_stopintr,STOP (INTR),1928,STOP (INTR),КОНЧАТЬСЯ,948
+949_wait,WAIT,1590,WAIT,ЖДАТЬ,949
+950_always,ALWAYS,1676,ALWAYS,ВСЕГДА,950
+951_often,OFTEN,1852,OFTEN,ЧАСТО,951
+952_sometimes,SOMETIMES,1544,SOMETIMES,ИНОГДА,952
+953_soon,SOON,703,SOON,СКОРО,953
+954_foralongtime,FOR A LONG TIME,418,FOR A LONG TIME,ДОЛГО,954
+955_daydaytime,DAY (DAYTIME),1225,DAY (DAYTIME),"ДЕНЬ, СВЕТЛОЕ ВРЕМЯ СУТОК",955
+956_dayduration,DAY (DURATION),1260,DAY (DURATION),"ДЕНЬ, СУТКИ",956
+957_night,NIGHT,1233,NIGHT,НОЧЬ,957
+958_morning,MORNING,1339,MORNING,УТРО,958
+959_noon,NOON,2490,NOON,ПОЛДЕНЬ,959
+960_evening,EVENING,1629,EVENING,ВЕЧЕР,960
+961_today,TODAY,1283,TODAY,СЕГОДНЯ,961
+962_tomorrow,TOMORROW,1329,TOMORROW,ЗАВТРА,962
+963_dayaftertomorrow,DAY-AFTER-TOMORROW,1179,DAY-AFTER-TOMORROW,ПОСЛЕЗАВТРА,963
+964_yesterday,YESTERDAY,1174,YESTERDAY,ВЧЕРА,964
+965_daybeforeyesterday,DAY-BEFORE-YESTERDAY,1180,DAY-BEFORE-YESTERDAY,ПОЗАВЧЕРА,965
+966_hour,HOUR,1353,HOUR,ЧАС,966
+967_week,WEEK,1469,WEEK,НЕДЕЛЯ,967
+968_month,MONTH,1370,MONTH,МЕСЯЦ,968
+969_year,YEAR,1226,YEAR,ГОД,969
+970_lastyear,LAST YEAR,514,LAST YEAR,ПРОШЛЫЙ ГОД,970
+971_nextyear,NEXT YEAR,515,NEXT YEAR,СЛЕДУЮЩИЙ ГОД,971
+972_winter,WINTER,1471,WINTER,ЗИМА,972
+973_spring,SPRING,1537,SPRING,ВЕСНА,973
+974_summer,SUMMER,1342,SUMMER,ЛЕТО,974
+975_autumn,AUTUMN,1276,AUTUMN,ОСЕНЬ,975
+976_smellintr,SMELL (INTR),1587,SMELL (INTR),ПАХНУТЬ,976
+977_smelltr,SMELL (TR),1586,SMELL (TR),НЮХАТЬ,977
+978_smell,SMELL,,SMELL,ЗАПАХ,978
+979_stench,STENCH,42,STENCH,ВОНЬ,979
+980_taste,TASTE,21,TASTE,ПРОБОВАТЬ (НА ВКУС),980
+981_sweet,SWEET,717,SWEET,СЛАДКИЙ,981
+982_salty,SALTY,1091,SALTY,СОЛЕНЫЙ,982
+983_bitter,BITTER,887,BITTER,ГОРЬКИЙ,983
+984_sour,SOUR,1906,SOUR,КИСЛЫЙ,984
+985_hear,HEAR,1408,HEAR,СЛЫШАТЬ,985
+986_listen,LISTEN,1608,LISTEN,СЛУШАТЬ,986
+987_voice,VOICE,1811,VOICE,ГОЛОС,987
+988_loud,LOUD,377,LOUD,ГРОМКИЙ,988
+989_quiet,QUIET,1314,QUIET,ТИХИЙ,989
+990_see,SEE,1409,SEE,ВИДЕТЬ,990
+991_look,LOOK,1819,LOOK,СМОТРЕТЬ,991
+992_white,WHITE,1335,WHITE,БЕЛЫЙ,992
+993_black,BLACK,163,BLACK,ЧЁРНЫЙ,993
+994_red,RED,156,RED,КРАСНЫЙ,994
+995_blue,BLUE,837,BLUE,СИНИЙ,995
+996_green,GREEN,1425,GREEN,ЗЕЛЁНЫЙ,996
+997_yellow,YELLOW,1424,YELLOW,ЖЁЛТЫЙ,997
+998_grey,GREY,153,GREY,СЕРЫЙ,998
+1000_soft,SOFT,1856,SOFT,МЯГКИЙ,1000
+1001_hard,HARD,,HARD,ТВЁРДЫЙ,1001
+1002_smooth,SMOOTH,1234,SMOOTH,ГЛАДКИЙ,1002
+1003_sharp,SHARP,1396,SHARP,ОСТРЫЙ,1003
+1004_blunt,BLUNT,379,BLUNT,ТУПОЙ,1004
+1005_dense,DENSE,2239,DENSE,ГУСТОЙ,1005
+1006_watery,WATERY,,WATERY,ЖИДКИЙ,1006
+1007_heavy,HEAVY,1210,HEAVY,ТЯЖЁЛЫЙ,1007
+1008_lightinweight,LIGHT (IN WEIGHT),1052,LIGHT (IN WEIGHT),ЛЁГКИЙ,1008
+1009_wet,WET,1726,WET,МОКРЫЙ,1009
+1010_dry,DRY,1398,DRY,СУХОЙ,1010
+1011_hot,HOT,1286,HOT,ГОРЯЧИЙ,1011
+1012_warm,WARM,1232,WARM,ТЁПЛЫЙ,1012
+1013_cold,COLD,1287,COLD,ХОЛОДНЫЙ,1013
+1014_clean,CLEAN,704,CLEAN,ЧИСТЫЙ,1014
+1015_dirty,DIRTY,1230,DIRTY,ГРЯЗНЫЙ,1015
+1016_laugh,LAUGH,1355,LAUGH,СМЕЯТЬСЯ,1016
+1017_smile,SMILE,1451,SMILE,УЛЫБАТЬСЯ,1017
+1018_rejoice,REJOICE,2192,REJOICE,РАДОВАТЬСЯ,1018
+1019_playtr,PLAY (TR),1413,PLAY (TR),ИГРАТЬ,1019
+1020_lose,LOSE,1660,LOSE,ПРОИГРЫВАТЬ,1020
+1021_win,WIN,866,WIN,ВЫИГРЫВАТЬ,1021
+1022_love,LOVE,923,LOVE,ЛЮБИТЬ,1022
+1023_want,WANT,1784,WANT,ХОТЕТЬ,1023
+1024_kiss,KISS,578,KISS,ЦЕЛОВАТЬ,1024
+1025_embrace,EMBRACE,928,EMBRACE,ОБНИМАТЬ,1025
+1026_weep,WEEP,1839,WEEP,ПЛАКАТЬ,1026
+1027_sob,SOB,,SOB,ВСХЛИПЫВАТЬ,1027
+1028_tearn,TEAR (N),1651,TEAR (N),СЛЕЗА,1028
+1029_eyefluid,EYE FLUID,,EYE FLUID,ВЫДЕЛЕНИЯ ИЗ ГЛАЗ,1029
+1030_fear,FEAR,1419,FEAR,БОЯТЬСЯ,1030
+1031_frighten,FRIGHTEN,252,FRIGHTEN,ПУГАТЬ,1031
+1032_choose,CHOOSE,1750,CHOOSE,ВЫБИРАТЬ,1032
+1033_deceive,DECEIVE,,DECEIVE,ОБМАНЫВАТЬ,1033
+1034_good,GOOD,1035,GOOD,ХОРОШИЙ,1034
+1035_bad,BAD,1292,BAD,ПЛОХОЙ,1035
+1036_praise,PRAISE,1687,PRAISE,ХВАЛИТЬ,1036
+1037_beautiful,BEAUTIFUL,1427,BEAUTIFUL,КРАСИВЫЙ,1037
+1038_ugly,UGLY,1548,UGLY,УРОДЛИВЫЙ,1038
+1039_greedy,GREEDY,2018,GREEDY,ЖАДНЫЙ,1039
+1040_clever,CLEVER,1310,CLEVER,УМНЫЙ,1040
+1041_think,THINK,1415,THINK,ДУМАТЬ,1041
+1042_trust,TRUST,,TRUST,ВЕРИТЬ,1042
+1043_understand,UNDERSTAND,1536,UNDERSTAND,ПОНИМАТЬ,1043
+1044_know,KNOW,1410,KNOW,ЗНАТЬ,1044
+1045_beable,BE ABLE,972,BE ABLE,МОЧЬ,1045
+1046_stupid,STUPID,1518,STUPID,ГЛУПЫЙ,1046
+1047_insane,INSANE,1899,INSANE,СУМАСШЕДШИЙ,1047
+1048_teach,TEACH,709,TEACH,ОБУЧАТЬ,1048
+1049_remember,REMEMBER,707,REMEMBER,ПОМНИТЬ,1049
+1050_forget,FORGET,1523,FORGET,ЗАБЫВАТЬ,1050
+1051_explain,EXPLAIN,1626,EXPLAIN,ОБЪЯСНЯТЬ,1051
+1052_yes,YES,1268,YES,ДА,1052
+1053_no,NO,1269,NO,НЕТ,1053
+1054_notindicative,NOT (INDICATIVE),1240,NOT (INDICATIVE),НЕ (ИНДИКАТИВ),1054
+1055_notprohibitive,NOT (PROHIBITIVE),1240,NOT (PROHIBITIVE),НЕ (ПРОХИБИТИВ),1055
+1056_howmany,HOW MANY?,822,HOW MANY?,СКОЛЬКО?,1056
+1057_what,WHAT?,1236,WHAT?,ЧТО?,1057
+1058_when,WHEN?,1238,WHEN?,КОГДА?,1058
+1059_where,WHERE?,1237,WHERE?,ГДЕ?,1059
+1060_whereto,WHERE TO?,2928,WHERE TO?,КУДА?,1060
+1061_who,WHO?,1235,WHO?,КТО?,1061
+1062_why,WHY?,1270,WHY?,ПОЧЕМУ?,1062
+1063_how,HOW?,,HOW?,КАК?,1063
+1064_here,HERE,136,HERE,ЗДЕСЬ,1064
+1065_theremedial,THERE (MEDIAL),1937,THERE (MEDIAL),ТАМ (ОКОЛО СЛУШАЮЩЕГО),1065
+1066_theredistal,THERE (DISTAL),1937,THERE (DISTAL),ТАМ (ВДАЛИ ОТ ГОВОРЯЩИХ),1066
+1067_sing,SING,1261,SING,ПЕТЬ,1067
+1068_song,SONG,1096,SONG,ПЕСНЯ,1068
+1069_shout,SHOUT,715,SHOUT,КРИЧАТЬ,1069
+1070_whisper,WHISPER,55,WHISPER,ШЕПТАТЬ,1070
+1071_whistle,WHISTLE,1025,WHISTLE,СВИСТЕТЬ,1071
+1072_talk,TALK,2708,TALK,РАЗГОВАРИВАТЬ,1072
+1073_say,SAY,1458,SAY,СКАЗАТЬ,1073
+1074_fairytale,FAIRY TALE,2937,FAIRY TALE,СКАЗКА,1074
+1075_language,LANGUAGE,1307,LANGUAGE,ЯЗЫК (РЕЧЬ),1075
+1076_word,WORD,1599,WORD,СЛОВО,1076
+1077_name,NAME,1405,NAME,ИМЯ,1077
+1078_prayer,PRAYER,,PRAYER,МОЛИТВА,1078
+1079_ask,ASK,1309,ASK,СПРАШИВАТЬ,1079
+1080_answer,ANSWER,1275,ANSWER,ОТВЕЧАТЬ,1080
+1081_askfor,ASK FOR,1828,ASK FOR,ПРОСИТЬ,1081
+1082_forbid,FORBID,83,FORBID,ЗАПРЕЩАТЬ,1082
+1083_rebuke,REBUKE,299,REBUKE,РУГАТЬ,1083
+1084_call,CALL,1084,CALL,ЗВАТЬ,1084
+1085_write,WRITE,1672,WRITE,ПИСАТЬ,1085
+1086_read,READ,724,READ,ЧИТАТЬ,1086
+1087_paper,PAPER,648,PAPER,БУМАГА,1087
+1088_book,BOOK,963,BOOK,КНИГА,1088
+1089_drum,DRUM,908,DRUM,БАРАБАН,1089
+1090_city,CITY,1391,CITY,ГОРОД,1090
+1091_village,VILLAGE,930,VILLAGE,СЕЛЕНИЕ,1091
+1092_boundary,BOUNDARY,1010,BOUNDARY,"ГРАНИЦА, МЕЖА",1092
+1093_master,MASTER,383,MASTER,ХОЗЯИН,1093
+1094_slave,SLAVE,812,SLAVE,РАБ,1094
+1095_friend,FRIEND,1325,FRIEND,ДРУГ,1095
+1096_enemy,ENEMY,1358,ENEMY,ВРАГ,1096
+1097_neighbor,NEIGHBOR,1332,NEIGHBOR,СОСЕД,1097
+1098_guest,GUEST,1782,GUEST,ГОСТЬ,1098
+1099_help,HELP,1897,HELP,ПОМОГАТЬ,1099
+1100_fightvb,FIGHT (VB),1423,FIGHT (VB),ДРАТЬСЯ,1100
+1101_war,WAR,935,WAR,ВОЙНА,1101
+1102_armedband,ARMED BAND,,ARMED BAND,ВООРУЖЕННЫЙ ОТРЯД,1102
+1103_bow,BOW,994,BOW,ЛУК (ОРУЖИЕ),1103
+1104_arrow,ARROW,977,ARROW,СТРЕЛА,1104
+1105_saber,SABER,1535,SABER,САБЛЯ,1105
+1106_dagger,DAGGER,,DAGGER,КИНЖАЛ,1106
+1107_scabbard,SCABBARD,,SCABBARD,НОЖНЫ,1107
+1108_handle,HANDLE,1254,HANDLE,РУКОЯТКА,1108
+1109_gun,GUN,1566,GUN,РУЖЬЕ,1109
+1110_tower,TOWER,1671,TOWER,БАШНЯ,1110
+1111_fishnet,FISHNET,388,FISHNET,РЫБАЦКАЯ СЕТЬ,1111
+1112_hunt,HUNT,1435,HUNT,ОХОТИТЬСЯ,1112
+1113_shoot,SHOOT,,SHOOT,СТРЕЛЯТЬ,1113
+1114_snaretrap,SNARE (TRAP),3320,SNARE (TRAP),КАПКАН,1114
+1115_trapcatch,TRAP (CATCH),1170,TRAP (CATCH),ЛОВИТЬ (ЖИВОТНОЕ),1115
+1116_witness,WITNESS,1144,WITNESS,СВИДЕТЕЛЬ,1116
+1117_oath,OATH,1712,OATH,КЛЯТВА,1117
+1118_prison,PRISON,1281,PRISON,ТЮРЬМА,1118
+1119_steal,STEAL,713,STEAL,КРАСТЬ,1119
+1120_thief,THIEF,1160,THIEF,ВОР,1120
+1121_pray,PRAY,24,PRAY,МОЛИТЬСЯ,1121
+1122_cursev,CURSE (V),8,CURSE (V),ПРОКЛИНАТЬ,1122
+1123_fastv,FAST (V),,FAST (V),ПОСТИТЬСЯ,1123
+1124_beexist,"BE, EXIST",1579,"BE, EXIST","БЫТЬ, ИМЕТЬСЯ",1124
+1125_become,BECOME,1990,BECOME,"СТАТЬ, СТАНОВИТЬСЯ",1125
+1126_turnoutappear,"TURN OUT, APPEAR",1076,"TURN OUT, APPEAR","ОКАЗЫВАТЬСЯ, ПОПАДАТЬ",1126
+1127_ringv,RING (V),2875,RING (V),ЗВЕНЕТЬ,1127
+1128_squeak,SQUEAK,,SQUEAK,СКРИПЕТЬ,1128
+1129_havetodo,HAVE TO DO,971,HAVE TO DO,"БЫТЬ ДОЛЖНЫМ, ОБЯЗАННЫМ",1129
+1130_true,TRUE,,TRUE,ИСТИННЫЙ,1130
+1131_with,WITH,,WITH,ВМЕСТЕ С,1131
+1132_they,THEY,,THEY,ОНИ,1132
