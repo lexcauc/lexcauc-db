@@ -59,7 +59,7 @@ class Dataset(BaseDataset):
                 Number=concept['sort'],
                 Russian_Gloss=concept['rus'],
                 Concepticon_ID=concept['СС_no'] if concept['СС_no'] != '0' else '',
-                Concepticon_Gloss=concept['eng'] if concept['eng'] else '',
+                #Concepticon_Gloss=concept['eng'] if concept['eng'] else '',
             )
             concept_lookup[concept['sort']] = idx
         language_lookup = {}

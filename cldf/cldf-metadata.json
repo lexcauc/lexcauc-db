@@ -13,31 +13,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexcauc/lexcauc-db",
-            "dc:created": "v0.1.0-39-g757c3d7"
+            "dc:created": "v0.1.0-57-g962cadb"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "eWAVE-3.0-31-g96d715a808"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data/",
-            "dc:created": "v2.2.1a"
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.3.0-53-g324a045"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 3003,
+            "dc:extent": 3847,
             "tableSchema": {
                 "columns": [
                     {
@@ -113,6 +113,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [
@@ -147,7 +155,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -250,80 +258,6 @@
                 ]
             },
             "url": "parameters.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 0,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
-                        "name": "Form_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
-                        "name": "Form"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
-                        "name": "Cognateset_ID"
-                    },
-                    {
-                        "datatype": "boolean",
-                        "name": "Doubt"
-                    },
-                    {
-                        "datatype": "string",
-                        "default": "expert",
-                        "name": "Cognate_Detection_Method"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
-                        "separator": " ",
-                        "name": "Alignment"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Alignment_Method"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Alignment_Source"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Form_ID"
-                        ],
-                        "reference": {
-                            "resource": "forms.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "cognates.csv"
         }
     ]
 }
