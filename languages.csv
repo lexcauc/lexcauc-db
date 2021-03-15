@@ -1,5 +1,10 @@
 lang.id,lang.name,glottocode,lang.glog,group,latitude,longitude,compiler
 itsari,Itsari Dargwa,icar1234,Southwestern Dargwa,Dargwa,41.998055,47.573334,"Rasul Mutalov, Oleg Belyaev"
-zilo,Zilo Andi,zilo1238,Andi,Andic,42.731667,46.318611,George Moroz
+zilo,Andi (Zilo),zilo1238,Andi,Andic,42.731667,46.318611,George Moroz
 avar,Avar,avar1256,Avar,Avar,42.55,46.75,Diana Forker
 sanzhi,Sanzhi Dargwa,sanz1248,Sanzhi,Dargwa,41.977778,47.563889,Diana Forker
+bezhta,Bezhta,bezh1248,Bezhta,Tsezic,42.12,46.03,Zaira Khalilova
+agul,Aghul (Huppuq),aghu1253,Aghul,Lezgic,41.660942,47.953294,"Timur Maisak, Solmaz Merdanova, Dmitry Ganenkov"
+hinuq,Hinuq,hinu1240,Hinuq,Tsezic,42.45,45.81,Diana Forker
+khwarshi,Khwarshi,khva1239,Khwarshi-Inkhoqwari,Tsezic,42.352452,46.106436,Zaira Khalilova
+tabasaran,,,,,,,
